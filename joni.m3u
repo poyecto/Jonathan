@@ -1,8 +1,17 @@
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| dazn1
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| dazn1
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144862.ts
 
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| dazn2
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| dazn2
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144856.ts
 
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| daznf1
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| daznf1
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144850.ts
+
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| dazn3
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144862.ts
+
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| dazn4
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144856.ts
+
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ DAZN DEPORTES",MUS| daznf1
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144850.ts
