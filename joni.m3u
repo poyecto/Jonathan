@@ -16,3 +16,14 @@ https://pmcd2tpprgct.enaak-cdn.com/hls2/01/01344/uzf3d0kz3ik6_,l,n,.urlset/maste
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_10353485.png" tvg-group="netflix", Thor: Amor y Trueno 2022 
 https://archive.org/download/01_20220908_20220908_1549/01.mp4
+
+
+#EXTM3U
+#EXTINF: 0, MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF: 0, Intrusos
+https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+#EXTINF: 0, INDESTRUCTIBLES 3
+https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+#EXTINF: 0, FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
