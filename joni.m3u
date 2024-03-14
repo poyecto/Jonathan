@@ -1,29 +1,444 @@
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/jT4maYLLFeMATGgWxcD0z14OuIf.jpg " group-title="⭐️PELICULAS⭐️", SOLA
-https://c9kvajkxiczk.enaak-cdn.com/hls2/01/01345/7b8blb2jrg2r_,l,n,.urlset/master.m3u8?t=lNfJKfKoaohN0nPFsOi7iLIuixpGVfERrRlwMoQvCxg&s=1710192285&e=129600&f=6725460&srv=u1KgNRGRY5g6&i=0.4&sp=1500&p1=u1KgNRGRY5g6&p2=u1KgNRGRY5g6&asn=22927
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/beCxZp3SDyEsAhPvmF4RMF5ks2o.jpg " group-title="⭐️PELICULAS⭐️", LA SOCIEDAD DE LA NIEVE
-https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01337/o57lvxa58jo9_,l,n,.urlset/master.m3u8?t=MgrljeRsXNG3JP9hwlP3X-9lQxudcYWC9Y9TNMuMNvQ&s=1710192480&e=129600&f=6687031&srv=ftbzjxaby6ck&i=0.4&sp=1500&p1=ftbzjxaby6ck&p2=ftbzjxaby6ck&asn=22927
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/ekBm679aMQ9dP232hL8PPCdjlGu.jpg " group-title="⭐️PELICULAS⭐️", EL VIEJO ROBLE
-https://pmcd2tpprgct.enaak-cdn.com/hls2/01/01344/nu5zupupqj32_,l,n,h,.urlset/master.m3u8?t=PiVliITK-AqtqZlS82S53aQSE0dcvtVbhFYp-yWT_IY&s=1710192629&e=129600&f=6720622&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=22927
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/AgP6WYxS9td7Rq8ZBONvOvtHBIs.jpg " group-title="⭐️PELICULAS⭐️", MAMACRUZ
-https://oela888ly87x.enaak-cdn.com/hls2/01/01311/8jp30b3sk2y9_,l,n,.urlset/master.m3u8?t=Z00qDMiOdtuoUG7saBp-zzwg0QIEiWk2VvXTVPz2SRs&s=1710192761&e=129600&f=6555839&srv=dRbzRpT7gMoa&i=0.4&sp=1500&p1=dRbzRpT7gMoa&p2=dRbzRpT7gMoa&asn=22927
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/7J6cydS5Lz6qxUhM5oXXxCZJXtP.jpg " group-title="⭐️PELICULAS⭐️", PROYECTO FANTASMA
-https://pmcd2tpprgct.enaak-cdn.com/hls2/01/01344/uzf3d0kz3ik6_,l,n,.urlset/master.m3u8?t=MS8o2KCW-727qD1SbtA3L6bdxryJjdK0FOgDNLcWmGY&s=1710192867&e=129600&f=6720747&srv=wewivdeocm9h&i=0.4&sp=1500&p1=wewivdeocm9h&p2=wewivdeocm9h&asn=22927
-
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_10353485.png" tvg-group="netflix", Thor: Amor y Trueno 2022 
-https://archive.org/download/01_20220908_20220908_1549/01.mp4
-
-
-
-#EXTINF: 0, MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF: 0, Intrusos
-https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF: 0, INDESTRUCTIBLES 3
-https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF: 0, FRANCOTIRADOR
-https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+#EXTINF:-1,Sherlock Holmes
+http://bptv.club:8080/movie/jairogarza/1273ab/31208.mkv
+#EXTINF:-1,The Hill: La Colina
+http://bptv.club:8080/movie/jairogarza/1273ab/51752.mkv
+#EXTINF:-1,The Underdoggs
+http://bptv.club:8080/movie/jairogarza/1273ab/51788.mkv
+#EXTINF:-1,Barbie
+http://bptv.club:8080/movie/jairogarza/1273ab/49765.mkv
+#EXTINF:-1,Hugo Sanchez: El Gol Y La Gloria
+http://bptv.club:8080/movie/jairogarza/1273ab/32243.mkv
+#EXTINF:-1,El escuadrón suicida  .
+http://bptv.club:8080/movie/jairogarza/1273ab/17988.mkv
+#EXTINF:-1,Jack en la caja maldita 3
+http://bptv.club:8080/movie/jairogarza/1273ab/50993.mkv
+#EXTINF:-1,Role Play: Juego de roles
+http://bptv.club:8080/movie/jairogarza/1273ab/50478.mkv
+#EXTINF:-1,Agente 007: Casino Royale
+http://bptv.club:8080/movie/jairogarza/1273ab/29539.mkv
+#EXTINF:-1,Taylor Swift: The Eras Tour
+http://bptv.club:8080/movie/jairogarza/1273ab/49225.mkv
+#EXTINF:-1,Bruiser: Mi padre
+http://bptv.club:8080/movie/jairogarza/1273ab/39053.mkv
+#EXTINF:-1,Muerte en el Nilo
+http://bptv.club:8080/movie/jairogarza/1273ab/26031.mkv
+#EXTINF:-1,Mindcage: La jaula mental
+http://bptv.club:8080/movie/jairogarza/1273ab/51755.mkv
+#EXTINF:-1,Atrapadas en familia
+http://bptv.club:8080/movie/jairogarza/1273ab/38421.mkv
+#EXTINF:-1,Monster Hunter .
+http://bptv.club:8080/movie/jairogarza/1273ab/17984.mkv
+#EXTINF:-1,Ruido
+http://bptv.club:8080/movie/jairogarza/1273ab/36841.mkv
+#EXTINF:-1,Duna .
+http://bptv.club:8080/movie/jairogarza/1273ab/17976.mkv
+#EXTINF:-1,Bad Girls: Cuatro mujeres y un destino
+http://bptv.club:8080/movie/jairogarza/1273ab/43728.mkv
+#EXTINF:-1,Space Jam
+http://bptv.club:8080/movie/jairogarza/1273ab/27184.mkv
+#EXTINF:-1,Scream
+http://bptv.club:8080/movie/jairogarza/1273ab/26643.mkv
+#EXTINF:-1,Placeres Ocultos
+http://bptv.club:8080/movie/jairogarza/1273ab/27318.mkv
+#EXTINF:-1,Undisputed 3: La gran pelea 3
+http://bptv.club:8080/movie/jairogarza/1273ab/41506.mkv
+#EXTINF:-1,The Fallout .
+http://bptv.club:8080/movie/jairogarza/1273ab/17986.mkv
+#EXTINF:-1,Gran Torino
+http://bptv.club:8080/movie/jairogarza/1273ab/36217.mkv
+#EXTINF:-1,El Transportador 3
+http://bptv.club:8080/movie/jairogarza/1273ab/25923.mkv
+#EXTINF:-1,La Informante
+http://bptv.club:8080/movie/jairogarza/1273ab/49086.mkv
+#EXTINF:-1,Joe Bell .
+http://bptv.club:8080/movie/jairogarza/1273ab/17979.mkv
+#EXTINF:-1,Me gusta, pero me asusta
+http://bptv.club:8080/movie/jairogarza/1273ab/37759.mkv
+#EXTINF:-1,Black Panther: Wakanda Forever
+http://bptv.club:8080/movie/jairogarza/1273ab/37453.mkv
+#EXTINF:-1,Cuestión de honor
+http://bptv.club:8080/movie/jairogarza/1273ab/35184.mkv
+#EXTINF:-1,Ride On
+http://bptv.club:8080/movie/jairogarza/1273ab/49298.mkv
+#EXTINF:-1,La Gran Aventura De Blue En La Ciudad
+http://bptv.club:8080/movie/jairogarza/1273ab/32030.mkv
+#EXTINF:-1,Hidden: Terror en Kingsville
+http://bptv.club:8080/movie/jairogarza/1273ab/44506.mkv
+#EXTINF:-1,The Warriors
+http://bptv.club:8080/movie/jairogarza/1273ab/48103.mkv
+#EXTINF:-1,¿Qué le pasó al rey de los delfines?
+http://bptv.club:8080/movie/jairogarza/1273ab/32239.mkv
+#EXTINF:-1,Long Shot: Ni en tus sueños.
+http://bptv.club:8080/movie/jairogarza/1273ab/20044.mkv
+#EXTINF:-1,Emoji: La película .
+http://bptv.club:8080/movie/jairogarza/1273ab/18016.mkv
+#EXTINF:-1,La hija oscura
+http://bptv.club:8080/movie/jairogarza/1273ab/50758.mkv
+#EXTINF:-1,Presencias
+http://bptv.club:8080/movie/jairogarza/1273ab/28513.mkv
+#EXTINF:-1,Disturbia
+http://bptv.club:8080/movie/jairogarza/1273ab/38210.mkv
+#EXTINF:-1,Agent Jade Black
+http://bptv.club:8080/movie/jairogarza/1273ab/49154.mkv
+#EXTINF:-1,Night Swim: Aguas siniestras
+http://bptv.club:8080/movie/jairogarza/1273ab/51278.mkv
+#EXTINF:-1,60 minutos
+http://bptv.club:8080/movie/jairogarza/1273ab/51289.mkv
+#EXTINF:-1,It: Eso
+http://bptv.club:8080/movie/jairogarza/1273ab/39005.mkv
+#EXTINF:-1,No se aceptan devoluciones: Reunión 10 años
+http://bptv.club:8080/movie/jairogarza/1273ab/46755.mkv
+#EXTINF:-1,Lados opuestos
+http://bptv.club:8080/movie/jairogarza/1273ab/49760.mkv
+#EXTINF:-1,Top Gun: Maverick
+http://bptv.club:8080/movie/jairogarza/1273ab/25892.mkv
+#EXTINF:-1,Greenland: El último refugio.
+http://bptv.club:8080/movie/jairogarza/1273ab/17992.mkv
+#EXTINF:-1,Los Indestructibles 4
+http://bptv.club:8080/movie/jairogarza/1273ab/47196.mkv
+#EXTINF:-1,Operación Fortune: El gran engaño
+http://bptv.club:8080/movie/jairogarza/1273ab/36567.mkv
+#EXTINF:-1,Réquiem por un sueño
+http://bptv.club:8080/movie/jairogarza/1273ab/31833.mkv
+#EXTINF:-1,Kimi .
+http://bptv.club:8080/movie/jairogarza/1273ab/17993.mkv
+#EXTINF:-1,Vuela como el Aguila
+http://bptv.club:8080/movie/jairogarza/1273ab/17962.mkv
+#EXTINF:-1,John Wick 4
+http://bptv.club:8080/movie/jairogarza/1273ab/50261.mkv
+#EXTINF:-1,Coyote Ugly
+http://bptv.club:8080/movie/jairogarza/1273ab/41523.mkv
+#EXTINF:-1,Cenicienta
+http://bptv.club:8080/movie/jairogarza/1273ab/32039.mkv
+#EXTINF:-1,Escuadrón Suicida: Consecuencias infernales .
+http://bptv.club:8080/movie/jairogarza/1273ab/17989.mkv
+#EXTINF:-1,Kandisha: Invocando al demonio
+http://bptv.club:8080/movie/jairogarza/1273ab/36972.mkv
+#EXTINF:-1,Tierra de carteles
+http://bptv.club:8080/movie/jairogarza/1273ab/31987.mkv
+#EXTINF:-1,Ataque inesperado.
+http://bptv.club:8080/movie/jairogarza/1273ab/20345.mkv
+#EXTINF:-1,Enola Holmes 2
+http://bptv.club:8080/movie/jairogarza/1273ab/31977.mkv
+#EXTINF:-1,Higuita: El camino del Escorpión
+http://bptv.club:8080/movie/jairogarza/1273ab/49155.mkv
+#EXTINF:-1,Django: Sin cadenas
+http://bptv.club:8080/movie/jairogarza/1273ab/37668.mkv
+#EXTINF:-1,Materia Gris
+http://bptv.club:8080/movie/jairogarza/1273ab/49579.mkv
+#EXTINF:-1,La lista de Schindler
+http://bptv.club:8080/movie/jairogarza/1273ab/29537.mkv
+#EXTINF:-1,Fear the Night: Teme a la oscuridad
+http://bptv.club:8080/movie/jairogarza/1273ab/51533.mkv
+#EXTINF:-1,Una Sombra En Mi Ojo .
+http://bptv.club:8080/movie/jairogarza/1273ab/18008.mkv
+#EXTINF:-1,Kids
+http://bptv.club:8080/movie/jairogarza/1273ab/52317.mkv
+#EXTINF:-1,El milagro del padre Stu
+http://bptv.club:8080/movie/jairogarza/1273ab/29694.mkv
+#EXTINF:-1,Chicas pesadas
+http://bptv.club:8080/movie/jairogarza/1273ab/51415.mkv
+#EXTINF:-1,El Informante
+http://bptv.club:8080/movie/jairogarza/1273ab/25101.mkv
+#EXTINF:-1,Así en la Tierra como en el Infierno
+http://bptv.club:8080/movie/jairogarza/1273ab/43522.mkv
+#EXTINF:-1,La Cocina
+http://bptv.club:8080/movie/jairogarza/1273ab/51166.mkv
+#EXTINF:-1,Bully
+http://bptv.club:8080/movie/jairogarza/1273ab/48565.mkv
+#EXTINF:-1,La gran noche del pop
+http://bptv.club:8080/movie/jairogarza/1273ab/51777.mkv
+#EXTINF:-1,Pretty Woman: Mujer bonita
+http://bptv.club:8080/movie/jairogarza/1273ab/41705.mkv
+#EXTINF:-1,El poder de lo centavos
+http://bptv.club:8080/movie/jairogarza/1273ab/51817.mkv
+#EXTINF:-1,Panamá
+http://bptv.club:8080/movie/jairogarza/1273ab/46455.mkv
+#EXTINF:-1,Rapidos y Furiosos X
+http://bptv.club:8080/movie/jairogarza/1273ab/43686.mkv
+#EXTINF:-1,Locos de Ira.
+http://bptv.club:8080/movie/jairogarza/1273ab/23410.mkv
+#EXTINF:-1,The Collective
+http://bptv.club:8080/movie/jairogarza/1273ab/48447.mkv
+#EXTINF:-1,The Kings Man: El orígen
+http://bptv.club:8080/movie/jairogarza/1273ab/25104.mkv
+#EXTINF:-1,Maixabel
+http://bptv.club:8080/movie/jairogarza/1273ab/28578.mkv
+#EXTINF:-1,El traficante .
+http://bptv.club:8080/movie/jairogarza/1273ab/17985.mkv
+#EXTINF:-1,Crueldad intolerable.
+http://bptv.club:8080/movie/jairogarza/1273ab/18005.mkv
+#EXTINF:-1,The Prestige: El gran truco
+http://bptv.club:8080/movie/jairogarza/1273ab/44705.mkv
+#EXTINF:-1,Una joven prometedora
+http://bptv.club:8080/movie/jairogarza/1273ab/14014.mkv
+#EXTINF:-1,La Hija del Rey
+http://bptv.club:8080/movie/jairogarza/1273ab/25102.mkv
+#EXTINF:-1,Detectives en Guerra
+http://bptv.club:8080/movie/jairogarza/1273ab/43511.mkv
+#EXTINF:-1,La naranja mecánica
+http://bptv.club:8080/movie/jairogarza/1273ab/48144.mkv
+#EXTINF:-1,Titanic
+http://bptv.club:8080/movie/jairogarza/1273ab/35086.mkv
+#EXTINF:-1,Línea de fuego: El protector
+http://bptv.club:8080/movie/jairogarza/1273ab/42539.mkv
+#EXTINF:-1,One more shot: Una vez más
+http://bptv.club:8080/movie/jairogarza/1273ab/50268.mkv
+#EXTINF:-1,El niño
+http://bptv.club:8080/movie/jairogarza/1273ab/38373.mkv
+#EXTINF:-1,WWE Money in the Bank 2022
+http://bptv.club:8080/movie/jairogarza/1273ab/23222.mkv
+#EXTINF:-1,Warning .
+http://bptv.club:8080/movie/jairogarza/1273ab/18006.mkv
+#EXTINF:-1,Regreso al espacio.
+http://bptv.club:8080/movie/jairogarza/1273ab/19654.mkv
+#EXTINF:-1,2 Fast 2 Furious
+http://bptv.club:8080/movie/jairogarza/1273ab/28572.mkv
+#EXTINF:-1,Atrapados en Chernóbil .
+http://bptv.club:8080/movie/jairogarza/1273ab/18009.mkv
+#EXTINF:-1,Spider-Man 3 .
+http://bptv.club:8080/movie/jairogarza/1273ab/18013.mkv
+#EXTINF:-1,Cómo satisfacer a una mujer
+http://bptv.club:8080/movie/jairogarza/1273ab/39051.mkv
+#EXTINF:-1,Las dos muertes de Henry Baker.
+http://bptv.club:8080/movie/jairogarza/1273ab/20367.mkv
+#EXTINF:-1,La conferencia
+http://bptv.club:8080/movie/jairogarza/1273ab/37614.mkv
+#EXTINF:-1,Franco Escamilla: Show Payaso
+http://bptv.club:8080/movie/jairogarza/1273ab/49704.mkv
+#EXTINF:-1,Dulce Venganza
+http://bptv.club:8080/movie/jairogarza/1273ab/47934.mkv
+#EXTINF:-1,Piratas del Caribe. La maldición del Perla Negra.
+http://bptv.club:8080/movie/jairogarza/1273ab/20317.mkv
+#EXTINF:-1,Bajo el mismo techo .
+http://bptv.club:8080/movie/jairogarza/1273ab/18004.mkv
+#EXTINF:-1,La Hija
+http://bptv.club:8080/movie/jairogarza/1273ab/28515.mkv
+#EXTINF:-1,Un trueno en la oscuridad
+http://bptv.club:8080/movie/jairogarza/1273ab/51550.mkv
+#EXTINF:-1,Ecos mortales
+http://bptv.club:8080/movie/jairogarza/1273ab/31995.mkv
+#EXTINF:-1,American Sicario
+http://bptv.club:8080/movie/jairogarza/1273ab/27988.mkv
+#EXTINF:-1,Beekeeper: Sentencia de muerte
+http://bptv.club:8080/movie/jairogarza/1273ab/51280.mkv
+#EXTINF:-1,Armageddon
+http://bptv.club:8080/movie/jairogarza/1273ab/39098.mkv
+#EXTINF:-1,In the Blood
+http://bptv.club:8080/movie/jairogarza/1273ab/19913.mkv
+#EXTINF:-1,Aquaman y el reino perdido
+http://bptv.club:8080/movie/jairogarza/1273ab/51279.mkv
+#EXTINF:-1,El club de las madres rebeldes
+http://bptv.club:8080/movie/jairogarza/1273ab/51847.mkv
+#EXTINF:-1,La Negociadora
+http://bptv.club:8080/movie/jairogarza/1273ab/44128.mkv
+#EXTINF:-1,The Lost City
+http://bptv.club:8080/movie/jairogarza/1273ab/20318.mkv
+#EXTINF:-1,La bruja
+http://bptv.club:8080/movie/jairogarza/1273ab/1410.mkv
+#EXTINF:-1,Slumberland: El país de los sueños
+http://bptv.club:8080/movie/jairogarza/1273ab/32035.mkv
+#EXTINF:-1,Ghislaine Maxwell: Asquerosamente rica
+http://bptv.club:8080/movie/jairogarza/1273ab/32227.mkv
+#EXTINF:-1,El Cantante
+http://bptv.club:8080/movie/jairogarza/1273ab/49200.mkv
+#EXTINF:-1,90 minutos en el cielo
+http://bptv.club:8080/movie/jairogarza/1273ab/41376.mkv
+#EXTINF:-1,The Rental: Vigilados.
+http://bptv.club:8080/movie/jairogarza/1273ab/22877.mkv
+#EXTINF:-1,Los Imperdonables.
+http://bptv.club:8080/movie/jairogarza/1273ab/19696.mkv
+#EXTINF:-1,Lillith.
+http://bptv.club:8080/movie/jairogarza/1273ab/20363.mkv
+#EXTINF:-1,Nadie! .
+http://bptv.club:8080/movie/jairogarza/1273ab/17995.mkv
+#EXTINF:-1,Woodstock 99: Peace, Love and Rage..
+http://bptv.club:8080/movie/jairogarza/1273ab/20374.mkv
+#EXTINF:-1,Regreso al Titanic
+http://bptv.club:8080/movie/jairogarza/1273ab/43977.mkv
+#EXTINF:-1,Aquellos que desean mi muerte 
+http://bptv.club:8080/movie/jairogarza/1273ab/17996.mkv
+#EXTINF:-1,Wildcat: Prisionera de guerra
+http://bptv.club:8080/movie/jairogarza/1273ab/49960.mkv
+#EXTINF:-1,Super Mario Bros: La película
+http://bptv.club:8080/movie/jairogarza/1273ab/49515.mkv
+#EXTINF:-1,La maldición del Queen Mary
+http://bptv.club:8080/movie/jairogarza/1273ab/51792.mkv
+#EXTINF:-1,La ciudad de las mentiras.
+http://bptv.club:8080/movie/jairogarza/1273ab/20316.mkv
+#EXTINF:-1,Los tres mosqueteros
+http://bptv.club:8080/movie/jairogarza/1273ab/43671.mkv
+#EXTINF:-1,Matrix Resurrections .
+http://bptv.club:8080/movie/jairogarza/1273ab/17981.mkv
+#EXTINF:-1,Pollitos en fuga: El origen de los Nuggets
+http://bptv.club:8080/movie/jairogarza/1273ab/49448.mkv
+#EXTINF:-1,Baile Urbano
+http://bptv.club:8080/movie/jairogarza/1273ab/48551.mkv
+#EXTINF:-1,Crush
+http://bptv.club:8080/movie/jairogarza/1273ab/45827.mkv
+#EXTINF:-1,Messi
+http://bptv.club:8080/movie/jairogarza/1273ab/35661.mkv
+#EXTINF:-1,Misfits .
+http://bptv.club:8080/movie/jairogarza/1273ab/17999.mkv
+#EXTINF:-1,La huérfana
+http://bptv.club:8080/movie/jairogarza/1273ab/28574.mkv
+#EXTINF:-1,Isabella: El Caso Nardoni
+http://bptv.club:8080/movie/jairogarza/1273ab/45385.mkv
+#EXTINF:-1,Ratatouille
+http://bptv.club:8080/movie/jairogarza/1273ab/28512.mkv
+#EXTINF:-1,Midway: Batalla en Altamar
+http://bptv.club:8080/movie/jairogarza/1273ab/25106.mkv
+#EXTINF:-1,Halftime Show: Rihanna
+http://bptv.club:8080/movie/jairogarza/1273ab/38370.mkv
+#EXTINF:-1,Z: la ciudad perdida
+http://bptv.club:8080/movie/jairogarza/1273ab/25098.mkv
+#EXTINF:-1,WWE Extreme Rules 2022
+http://bptv.club:8080/movie/jairogarza/1273ab/31369.mkv
+#EXTINF:-1,El hombre del norte
+http://bptv.club:8080/movie/jairogarza/1273ab/25105.mkv
+#EXTINF:-1,La leyenda del tesoro perdido 2: El libro de los secretos
+http://bptv.club:8080/movie/jairogarza/1273ab/25097.mkv
+#EXTINF:-1,Disquiet
+http://bptv.club:8080/movie/jairogarza/1273ab/46152.mkv
+#EXTINF:-1,No molestar
+http://bptv.club:8080/movie/jairogarza/1273ab/46567.mkv
+#EXTINF:-1,Depredador: La presa
+http://bptv.club:8080/movie/jairogarza/1273ab/26004.mkv
+#EXTINF:-1,Oppenheimer
+http://bptv.club:8080/movie/jairogarza/1273ab/50446.mkv
+#EXTINF:-1,¿Quieres ser mi hijo?
+http://bptv.club:8080/movie/jairogarza/1273ab/46513.mkv
+#EXTINF:-1,Tortugas Ninja
+http://bptv.club:8080/movie/jairogarza/1273ab/38993.mkv
+#EXTINF:-1,Wifelike
+http://bptv.club:8080/movie/jairogarza/1273ab/41949.mkv
+#EXTINF:-1,Indiana Jones y el templo maldito
+http://bptv.club:8080/movie/jairogarza/1273ab/33467.mkv
+#EXTINF:-1,The Inhabitant
+http://bptv.club:8080/movie/jairogarza/1273ab/42205.mkv
+#EXTINF:-1,Sueño de fuga..
+http://bptv.club:8080/movie/jairogarza/1273ab/19793.mkv
+#EXTINF:-1,Un sueño posible
+http://bptv.club:8080/movie/jairogarza/1273ab/45300.mkv
+#EXTINF:-1,Yo, Tonya
+http://bptv.club:8080/movie/jairogarza/1273ab/51164.mkv
+#EXTINF:-1,Operación Varsity Blues: Fraude universitario en EE.UU
+http://bptv.club:8080/movie/jairogarza/1273ab/32240.mkv
+#EXTINF:-1,Amor bandido
+http://bptv.club:8080/movie/jairogarza/1273ab/31890.mkv
+#EXTINF:-1,Men in Black: Hombres de negro
+http://bptv.club:8080/movie/jairogarza/1273ab/50447.mkv
+#EXTINF:-1,12 Hour Shift
+http://bptv.club:8080/movie/jairogarza/1273ab/49151.mkv
+#EXTINF:-1,Cuando las luces se apagan
+http://bptv.club:8080/movie/jairogarza/1273ab/46573.mkv
+#EXTINF:-1,Juego de honor
+http://bptv.club:8080/movie/jairogarza/1273ab/42542.mkv
+#EXTINF:-1,Voces inocentes
+http://bptv.club:8080/movie/jairogarza/1273ab/47180.mkv
+#EXTINF:-1,Champions: Los campeones
+http://bptv.club:8080/movie/jairogarza/1273ab/51390.mkv
+#EXTINF:-1,Reminiscencia .
+http://bptv.club:8080/movie/jairogarza/1273ab/17991.mkv
+#EXTINF:-1,Avatar: El camino del agua
+http://bptv.club:8080/movie/jairogarza/1273ab/49820.mkv
+#EXTINF:-1,Indiana Jones en busca del arca perdida
+http://bptv.club:8080/movie/jairogarza/1273ab/33466.mkv
+#EXTINF:-1,Instinto
+http://bptv.club:8080/movie/jairogarza/1273ab/48147.mkv
+#EXTINF:-1,Alien vs Depredador
+http://bptv.club:8080/movie/jairogarza/1273ab/41784.mkv
+#EXTINF:-1,Inmersión
+http://bptv.club:8080/movie/jairogarza/1273ab/32032.mkv
+#EXTINF:-1,El pianista
+http://bptv.club:8080/movie/jairogarza/1273ab/41245.mkv
+#EXTINF:-1,Sonic 2: la película
+http://bptv.club:8080/movie/jairogarza/1273ab/49817.mkv
+#EXTINF:-1,Sobrevivientes: Después del terremoto
+http://bptv.club:8080/movie/jairogarza/1273ab/51822.mkv
+#EXTINF:-1,Pulp Fiction
+http://bptv.club:8080/movie/jairogarza/1273ab/39598.mkv
+#EXTINF:-1,Un lugar en silencio: Parte II
+http://bptv.club:8080/movie/jairogarza/1273ab/20310.mkv
+#EXTINF:-1,Apache Junction: Ciudad sin ley
+http://bptv.club:8080/movie/jairogarza/1273ab/50066.mkv
+#EXTINF:-1,RIOT: Venganza en la prisión
+http://bptv.club:8080/movie/jairogarza/1273ab/45312.mkv
+#EXTINF:-1,Causeway: Resurgir
+http://bptv.club:8080/movie/jairogarza/1273ab/32225.mkv
+#EXTINF:-1,Inocencia robada
+http://bptv.club:8080/movie/jairogarza/1273ab/46516.mkv
+#EXTINF:-1,Bastardos sin gloria
+http://bptv.club:8080/movie/jairogarza/1273ab/39635.mkv
+#EXTINF:-1,Tesla
+http://bptv.club:8080/movie/jairogarza/1273ab/42089.mkv
+#EXTINF:-1,Nowhere
+http://bptv.club:8080/movie/jairogarza/1273ab/46571.mkv
+#EXTINF:-1,Hermanos de guerra
+http://bptv.club:8080/movie/jairogarza/1273ab/50540.mkv
+#EXTINF:-1,El Gran Fraude
+http://bptv.club:8080/movie/jairogarza/1273ab/51525.mkv
+#EXTINF:-1,Remando Como Un Solo Hombre
+http://bptv.club:8080/movie/jairogarza/1273ab/50748.mkv
+#EXTINF:-1,WWE WrestleMania 38 - Saturday
+http://bptv.club:8080/movie/jairogarza/1273ab/49698.mkv
+#EXTINF:-1,Joker: Guason
+http://bptv.club:8080/movie/jairogarza/1273ab/29542.mkv
+#EXTINF:-1,American Pie
+http://bptv.club:8080/movie/jairogarza/1273ab/50607.mkv
+#EXTINF:-1,Peso Pluma: Amazon Music Live 2023
+http://bptv.club:8080/movie/jairogarza/1273ab/47678.mkv
+#EXTINF:-1,Oppenheimer: el dilema de la bomba atómica
+http://bptv.club:8080/movie/jairogarza/1273ab/44663.mkv
+#EXTINF:-1,Evil Dead: El despertar
+http://bptv.club:8080/movie/jairogarza/1273ab/49180.mkv
+#EXTINF:-1,WWE SummerSlam 2021
+http://bptv.club:8080/movie/jairogarza/1273ab/25463.mkv
+#EXTINF:-1,Anna Nicole Smith: Tú no me conoces
+http://bptv.club:8080/movie/jairogarza/1273ab/42414.mkv
+#EXTINF:-1,Decisión final
+http://bptv.club:8080/movie/jairogarza/1273ab/44702.mkv
+#EXTINF:-1,El primer hombre en la luna
+http://bptv.club:8080/movie/jairogarza/1273ab/25103.mkv
+#EXTINF:-1,Un Ángel en Nuestras Vidas
+http://bptv.club:8080/movie/jairogarza/1273ab/44397.mkv
+#EXTINF:-1,WWE SummerSlam 2022
+http://bptv.club:8080/movie/jairogarza/1273ab/25462.mkv
+#EXTINF:-1,El Proyecto Adam .
+http://bptv.club:8080/movie/jairogarza/1273ab/18007.mkv
+#EXTINF:-1,El Expreso Polar
+http://bptv.club:8080/movie/jairogarza/1273ab/48549.mkv
+#EXTINF:-1,Reemplazos
+http://bptv.club:8080/movie/jairogarza/1273ab/43799.mkv
+#EXTINF:-1,Identidad
+http://bptv.club:8080/movie/jairogarza/1273ab/42420.mkv
+#EXTINF:-1,Viejos
+http://bptv.club:8080/movie/jairogarza/1273ab/49518.mkv
+#EXTINF:-1,Criminal
+http://bptv.club:8080/movie/jairogarza/1273ab/50759.mkv
+#EXTINF:-1,Los que se quedan
+http://bptv.club:8080/movie/jairogarza/1273ab/51285.mkv
+#EXTINF:-1,Top Gun
+http://bptv.club:8080/movie/jairogarza/1273ab/22504.mkv
+#EXTINF:-1,Depredador 2
+http://bptv.club:8080/movie/jairogarza/1273ab/42918.mkv
+#EXTINF:-1,Testigo protegido .
+http://bptv.club:8080/movie/jairogarza/1273ab/18015.mkv
+#EXTINF:-1,La Fórmula Secreta
+http://bptv.club:8080/movie/jairogarza/1273ab/50744.mkv
+#EXTINF:-1,Duro de matar 5: Un buen día para morir
+http://bptv.club:8080/movie/jairogarza/1273ab/41780.mkv
+#EXTINF:-1,Al limite del peligro
+http://bptv.club:8080/movie/jairogarza/1273ab/40456.mkv
+#EXTINF:-1,El misterio de Marilyn Monroe: Las cintas inéditas..
+http://bptv.club:8080/movie/jairogarza/1273ab/19810.mkv
+#EXTINF:-1,No respires 2 .
+http://bptv.club:8080/movie/jairogarza/1273ab/17987.mkv
+#EXTINF:-1,Mascotas 2.
+http://bptv.club:8080/movie/jairogarza/1273ab/18017.mkv
+#EXTINF:-1,Lift: Un robo de primera clase
+http://bptv.club:8080/movie/jairogarza/1273ab/50544.mkv
+#EXTINF:-1,Maligno
+http://bptv.club:8080/movie/jairogarza/1273ab/1376.mkv
+#EXTINF:-1,Hazaña en el Hudson
+http://bptv.club:8080/movie/jairogarza/1273ab/19650.mkv
