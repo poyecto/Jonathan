@@ -28,3 +28,22 @@ https://d2epjg24mgndbw.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️futbol⭐️", tycsportplay10
 https://usher.ttvnw.net/api/channel/hls/neuramedia.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22neuramedia%22%2C%22channel_id%22%3A738983824%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22Ovtw8zYY1lTnA1k4Tyw6Uxhfk32aAhAO%22%2C%22expires%22%3A1710951461%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.176.210.19%22%2C%22version%22%3A2%7D&sig=c19cbce2a2f96f90ac68f7ed534a1bc8d34325c6&cdm=wv&player_version=1.22.0
 
+
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/kUG54W76qu92g7Qrs9iob6oA6T9.jpg " group-title="⭐️Estrenos 2024", AQUI HAY GATO ENCERRADO
+https://tptseqikkqf1.enaak-cdn.com/hls2/01/01333/xkasgy4ejtb8_,l,n,.urlset/master.m3u8?t=bGgn8GuwnoGRLhEWbGC9RVArO9zmhLK4NILU8oWTwJM&s=1710193242&e=129600&f=6667804&srv=R5c6mhr83i3r&i=0.4&sp=1500&p1=R5c6mhr83i3r&p2=R5c6mhr83i3r&asn=22927
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/4k6Lqd28DgIog9GqTjDskcj60oG.jpg " group-title="⭐️Estrenos 2024", DESCONOCIDOS
+https://hmqji2fcn4hq.enaak-cdn.com/hls2/01/01311/fmgc43maeqqk_,l,n,.urlset/master.m3u8?t=iIAI0r-7VUli8DCa1So79eD3LLcVLQbYM9V5JhltK2E&s=1710193350&e=129600&f=6555794&srv=LFDu7HStkKAt&i=0.4&sp=1500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=22927
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg " group-title="⭐️Estrenos 2024", FERRARI
+https://i9ahrxrgdfew.enaak-cdn.com/hls2/01/01296/mt8f0zu7i5a4_,l,n,.urlset/master.m3u8?t=wQl8We1it3937dLYiQOTXknOZKQZg_XhMwlN-yT0eME&s=1710193432&e=129600&f=6483750&srv=yA0t2JwZb8Em&i=0.4&sp=1500&p1=yA0t2JwZb8Em&p2=yA0t2JwZb8Em&asn=22927
+
+#EXTINF:-1 tvg-logo=" https://img.imges.icu/public/upload/cover/loadmg-5RmmJDZzIzVC7U4TpfBCPEDJ5s9.jpg " group-title="⭐️Estrenos 2024", contagio
+https://i9ahrxrgdfew.enaak-cdn.com/hls2/01/01417/zzvkht7rec6f_,l,n,.urlset/master.m3u8?t=rsQCKfiYzbwMylPvaYtnE4ESkRILJO1BGhueTJoapr4&s=1711316429&e=129600&f=7086030&srv=902UZ9uUs7mR&i=0.4&sp=500&p1=902UZ9uUs7mR&p2=902UZ9uUs7mR&asn=22927
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/4gCwRJWKG7PnEVtCxgKymF9kKxO.jpg " group-title="⭐️Estrenos 2024", Madame web
+https://vxuckjgr0og4.enaak-cdn.com/hls2/01/01376/j03pye2nfkw1_,l,n,.urlset/master.m3u8?t=f7yZ8oA98uV3cMeIp9G86jvUQ0HBos-8aGlY1TZUvfM&s=1711316825&e=129600&f=6884849&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=22927
+
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/26uET6Na1mBVTqciYW6t15g08Gu.jpg " group-title="⭐️Estrenos 2024", un asesinato sin duda
+https://u59llznvtrzh.enaak-cdn.com/hls2/01/01383/7s2smszl7a3g_,l,n,h,.urlset/master.m3u8?t=EIozQiu7xey83lbCp6dKXJ2SUOhhjDyhAnq3S-5z7Bw&s=1711317083&e=129600&f=6919241&srv=aMrD2gI94v8g&i=0.4&sp=500&p1=aMrD2gI94v8g&p2=aMrD2gI94v8g&asn=22927
