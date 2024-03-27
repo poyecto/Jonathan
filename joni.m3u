@@ -25,9 +25,6 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️futbol⭐️", tycsportplay9
 https://d2epjg24mgndbw.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️futbol⭐️", tycsportplay10
-https://usher.ttvnw.net/api/channel/hls/neuramedia.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22neuramedia%22%2C%22channel_id%22%3A738983824%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22Ovtw8zYY1lTnA1k4Tyw6Uxhfk32aAhAO%22%2C%22expires%22%3A1710951461%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.176.210.19%22%2C%22version%22%3A2%7D&sig=c19cbce2a2f96f90ac68f7ed534a1bc8d34325c6&cdm=wv&player_version=1.22.0
-
 
 
 
@@ -43,7 +40,7 @@ http://tvlatino.club:2082/movie/pedrovip6mes/3k67n7QfhqxP/367756.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg  " group-title="⭐️Estrenos 2024", el duro
 http://38.68.134.177:8080/movie/EstelaValarezo512/512EstelaValarezo/345171.mp4
 
-#EXTINF:-1 tvg-logo=https://image.tmdb.org/t/p/w185/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg"  " group-title="⭐️Estrenos 2024", fighter
+#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg " group-title="⭐️Estrenos 2024", fighter
 http://38.68.134.177:8080/movie/EstelaValarezo512/512EstelaValarezo/345279.mkv
 
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/neil20KXNhdctwdoyZdVFm7Fwq0.jpg " group-title="⭐️Estrenos 2024", damsel
@@ -64,7 +61,7 @@ http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/436752.mp4
 #EXTINF:-1 tvg-logo= " https://pelicinehd.com/wp-content/uploads/2024/03/jPhol6mXdnXYimRAgf3vlN9ZUZF-193x288.jpg " group-title="⭐️Estrenos 2024", imaginario juguete diabolico
 http://38.68.134.177:8080/movie/EstelaValarezo512/512EstelaValarezo/345535.mp4
 
-#EXTINF:-1 tvg-logo= " https://pelicinehd.com/wp-content/uploads/2024/03/wiCUrxdZBYtbvkojp4SXrFhKsEZ-193x288.jpg " group-title="⭐️Estrenos 2024", lo que ignoramos
+#EXTINF:-1 tvg-logo= " https://image.tmdb.org/t/p/w185/zHKlvMp99WCW0WzTmeUtXeagufn.jpg " group-title="⭐️Estrenos 2024", lo que ignoramos
 http://galaxypro.online:8080/movie/Guardi151023gro/ROROtv1Gg/446332.mp4
 
 #EXTINF:-1 tvg-logo= " https://image.tmdb.org/t/p/w185/5EB0xqmik0Jnjkab20cChnRBtNT.jpg " group-title="⭐️Estrenos 2024", ricky stanicky
@@ -85,7 +82,7 @@ http://45.148.145.4:8080/movie/74nemu98de34be67/52mawu67wedu98/226337.mkv?token=
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/beCxZp3SDyEsAhPvmF4RMF5ks2o.jpg " group-title="⭐️Estrenos 2024", la sociedad de la nieve
 http://38.68.134.177:8080/movie/EstelaValarezo512/512EstelaValarezo/335557.mp4
 
-#EXTINF:-1 tvg-logo= " https://image.tmdb.org/t/p/w185/5EB0xqmik0Jnjkab20cChnRBtNT.jpg " group-title="⭐️Estrenos 2024", pobres criaturas
+#EXTINF:-1 tvg-logo= " https://image.tmdb.org/t/p/w185/9O8cjSnkxO4KCB4gNMrIhREPyTH.jpg " group-title="⭐️Estrenos 2024", pobres criaturas
 http://45.148.145.4:8080/movie/74nemu98de34be67/52mawu67wedu98/223816.mkv?token=HhtfWEVRFQ5BVVMDUAJcDlVXAFULUldUUFRTU1EFWVdTCQMNAwgOA1ZDTxdAQBdSV1s5DVZADwdRUQkABhlDRBZcRWZfXRUOQVRQAAMERxsUQg8JV0APBFRTAAQDBVAGVBUVSV9dFQ5BVlEDChZJFVNOEgFADFRZPAZUR1lWBBNfGxUVFFZZawcEDlRdUEcNFAZESBALRkVBWF9EXFlNEwdQQ0tXTVIWWUNXAwYBRxsUVQkRXBZHTEFYE3BiF00TAEFDXFhKXlsNQ1kXXl8TFRoUDxdtEFBGFxBUUF1QExNfGwcbGhtaVRs+AFpdWgBUQl8JCkFADxdQQB0TXVoPWBFWRWZGUFMWWQ8WWV9J
 
 #EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/tPCdIugHiE5wcy4EAwO9wtxFeg3.jpg " group-title="⭐️Estrenos 2024", simon
