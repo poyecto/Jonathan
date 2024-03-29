@@ -1,20 +1,11 @@
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix ", netflix accion
-http://50.7.220.2:8000/play/fe922780/7H9CEVYbUF/793933.ts?token=H0EMV0RQRl8UAwlVC1sDWVJaVgVRCVZTUQ9VWVQPV1ECVlBTUVtcA1VDFRZAFkBdBw48WFASDVMMBF8LUBQXRhcGFmleXEZfFFIIBwpQBxpKQRdYWVUVXgQAVwlUCQMHXFBIFEdRAEcMQwgMClsDGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFgkMR1QKT0FSW0VZEEdORAJBeWcRSEEBTkNdChZfDlcWCUBGS0RPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBkQUQVVaXQ0XC0RoSA0BFFsbBQtbCgpEHg==
+#EXTINF:-1 tvg-logo="  " group-title="⭐️hbo 4k", hbo 2 4k
+http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218716
 
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix horror
-http://45601225668793933.ofds0328.xyz:80/play/fe922780/7H9CEVYbUF/793933.ts
+#EXTINF:-1 tvg-logo="  " group-title="⭐️hbo 4k", hbo family 4k
+http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218717
 
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix movies
-http://45601225668793934.ofds0328.xyz:80/play/fe922780/7H9CEVYbUF/793934.ts
+#EXTINF:-1 tvg-logo="  " group-title="⭐️hbo 4k", hbo extreme 4k
+http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218727
 
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix box office
-http://exm3u.ofio.xyz:80/live/vi911770/xJYcyaMVuJVC/803022.ts
-
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix comedia
-http://exm3u.ofio.xyz:80/live/vi911770/xJYcyaMVuJVC/803024.ts
-
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix horror
-http://exm3u.ofio.xyz:80/live/vi911770/xJYcyaMVuJVC/803026.ts
-
-#EXTINF:-1 tvg-logo="  " group-title="⭐️netflix", netflix thriller
-http://exm3u.ofio.xyz:80/live/vi911770/xJYcyaMVuJVC/803030.ts
+#EXTINF:-1 tvg-logo="  " group-title="⭐️hbo 4k", hbo + 4k
+http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218726
