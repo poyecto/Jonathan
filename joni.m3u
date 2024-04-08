@@ -112,8 +112,14 @@ http://iptvtree.net:8080/F27279/bdad41ff/10921
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS
 http://rasaiptv.com:8080/daniel63/654321/339648
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS hd
+http://premierchile.shop:8080/23yaHFPEWwrq/UT9Bnd6aMF/554
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports
 https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/459
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc2
+http://950524318146813310.ofsix0405.xyz:80/play/fe928915/hU4Gvb7cU33E/813310.ts
 
 
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️futbol⭐️", tycsportplay1
