@@ -1,4 +1,17 @@
 
+#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH 24hs
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349289
+
+#EXTINF:-1 tvg-logo= " https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH camara 1
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349290
+
+#EXTINF:-1 tvg-logo= " https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg " group-title="👁GRAN HERMANO👁",  GH camara 2
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349291
+
+#EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg "  group-title="👁GRAN HERMANO👁",  GH camara 3
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349292
+
+
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO",   HBO
 http://tvbross.com:8090/comandoalmache/almache2022../431
 
