@@ -28,7 +28,7 @@ http://galaxypro.online:8080/FranklinBustos/092094FB/99765
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMAVOz4LJ5fkaEGPKgbuiUj4TpFDQTQDknw&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| 24/7 noticias
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/Jt7dOQm.png " group-title="⭐️ Argentina",🇦🇷| america tv
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png " group-title="⭐️ Argentina",🇦🇷| america tv
 http://galaxypro.online:8080/FranklinBustos/092094FB/99742
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/ZK7AQFg.png " group-title="⭐️ Argentina",🇦🇷| canal 13
@@ -39,8 +39,6 @@ http://54.39.51.30:25461/lapoderosa/udLj9bl6Di/12637
 
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| canal 10 cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| 
 
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| canal 34 san juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
