@@ -353,53 +353,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO",   HBO
-http://tvbross.com:8090/comandoalmache/almache2022../431
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
-http://tvbross.com:8090/comandoalmache/almache2022../429
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
-http://tvbross.com:8090/comandoalmache/almache2022../424
-#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine HBO",   HBO Family
-http://tvbross.com:8090/comandoalmache/almache2022../426
-#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine HBO",   HBO Xtreme
-http://galaxypro.online:8080/Jaime12P/JaimeU14/237110
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine HBO",   HBO Mundi
-http://tvbross.com:8090/comandoalmache/almache2022../421
-#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine HBO",   HBO POP
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/139.m3u8
-#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine HBO",  HBO signature
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU " group-title="⭐️ Cine HBO",  HBO (opc2)
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2092584.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU" group-title="⭐️ Cine HBO",  HBO HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/29068
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO 2  (opc2)
-http://tv.soccerplus.link:8000/hijos/1718155763/22207
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO 2 HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/23545
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO FAMILY  (opc2)
-http://tv.soccerplus.link:8000/hijos/1718155763/22208
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU " group-title="⭐️ Cine HBO",  HBO FAMILY HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/29066
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU" group-title="⭐️ Cine HBO",  HBO MUNDI  (opc2)
-http://tv.soccerplus.link:8000/hijos/1718155763/67467
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU " group-title="⭐️ Cine HBO",  HBO MUNDI HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/55753
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO PLUS  (opc2)
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2092585.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO PLUS HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/29064
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyfoKLjcgq1R-cYdQQQpUGG_wYOSyH14pMQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO POP HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/54581
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO SIGNATURE  (opc2)
-http://tv.soccerplus.link:8000/hijos/1718155763/22210
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO SIGNATURE HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/29065
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU  " group-title="⭐️ Cine HBO",  HBO XTREME  (opc2)
-http://tv.soccerplus.link:8000/hijos/1718155763/92725
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU " group-title="⭐️ Cine HBO",  HBO XTREME HD  (opc3)
-http://tv.soccerplus.link:8000/hijos/1718155763/55754
-
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIc7BpoYZOZJ4VcSBTXbtq31ZaE_SVZIkxA&usqp=CAU" group-title="⭐️ Cine universal", STUDIO UNIVERSAL
 http://tv.soccerplus.link:8000/hijos/1718155763/22241
@@ -597,51 +550,51 @@ http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Los Tres Chiflados
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="⭐ Pluto tv" , Los Tres Chiflados
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Nickelodeon iCarly
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="⭐ Pluto tv" ,  Nickelodeon iCarly
 https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Kenan y Kel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="⭐ Pluto tv" , Kenan y Kel
 https://r.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Teen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="⭐ Pluto tv" , Teen
 https://r.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | PAW Patrol Patrulla de Cachorros
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="⭐ Pluto tv" , PAW Patrol Patrulla de Cachorros
 https://r.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Nick Jr. Club
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="⭐ Pluto tv" , Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | La Exploradora
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" group-title="⭐ Pluto tv" , La Exploradora
 https://r.mjh.nz/PlutoTV/656e28a2954b020008ed133a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Las Pistas de Blue
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="⭐ Pluto tv" , Las Pistas de Blue
 https://r.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Baby Shark TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="⭐ Pluto tv" , Baby Shark TV
 https://r.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Babyfirst
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="⭐ Pluto tv" , Babyfirst
 https://r.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Junior
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="⭐ Pluto tv" , Junior
 https://r.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Barney
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="⭐ Pluto tv" , Barney
 https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Babar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="⭐ Pluto tv" , Babar
 https://r.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | El Reino Infantil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="⭐ Pluto tv" , El Reino Infantil
 https://r.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Nickelodeon Clásico
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="⭐ Pluto tv" , Nickelodeon Clásico
 https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Rugrats
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="⭐ Pluto tv" , Rugrats
 https://r.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Nickelodeon Rocket Power
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="⭐ Pluto tv" , Nickelodeon Rocket Power
 https://r.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Nickelodeon Pluto TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="⭐ Pluto tv" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="⭐ Pluto tv" , Bob Esponja Pantalones Cuadrados
 https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="⭐ Pluto tv" , ptv | Los Padrinos Mágicos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="⭐ Pluto tv" , Los Padrinos Mágicos
 https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Las Tortugas Ninja
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="⭐ Pluto tv" , Las Tortugas Ninja
 https://r.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Kids
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="⭐ Pluto tv" , Kids
 https://r.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Anime Kids
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="⭐ Pluto tv" , Anime Kids
 https://r.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
 
