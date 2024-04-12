@@ -609,10 +609,8 @@ http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr   
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdkFSrf4xiVauXQw&usqp=CAU " group-title="⭐️ Infantiles",INF| Disney jr
-http://spaticplas.org:8080/2tPqxdyfvv3z/xbC9XYJMjPAD/172
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_kSwUohKjfWcKIR8A6w6dyPUSNWxho93lg&usqp=CAU" group-title="⭐️ Infantiles",INF| ZooMoo
-
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdk" group-title="⭐️ Infantiles",INF| disney chanel
+http://tvlatino.club:2082/davidpro03.23/Yc3JFfpcGF/307021
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0LPU_l9dw1P_WHY71wtqzB06HRsfMBtcOQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | dragon ball z
 http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37813.m3u8
