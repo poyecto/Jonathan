@@ -291,27 +291,6 @@ http://restreamus.com:8080/play2022/XASFqNvz3ThB/234857
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 1
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/304521
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 2
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/304522
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 3
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/304523
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 4
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/304538
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 5
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/304652
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 6
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/337900
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kg0EZ3mYwhIjpT7xjzmXXJk_uejbFW84lA&usqp=CAU" group-title=" 🎟️ ZONA TV/CLUB",ztv | proyecto tv 7
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/337901
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
 https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w1564300903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
@@ -645,50 +624,6 @@ http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdkFSrf4xiVauXQw&usqp=CAU " group-title="⭐️ Infantiles",INF| Disney jr
 http://spaticplas.org:8080/2tPqxdyfvv3z/xbC9XYJMjPAD/172
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_kSwUohKjfWcKIR8A6w6dyPUSNWxho93lg&usqp=CAU" group-title="⭐️ Infantiles",INF| ZooMoo
-http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 01
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1644
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 02
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1645
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 03
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1646
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 04
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1647
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 05
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1648
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gGhuMAoN0I_AhDtNgVtqEWV1uxphuLEh5w&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cinema 06
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1649
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU " group-title="✅ 24/7 VIP",ppv | cine play 01
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1650
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 02
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1651
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 03
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1652
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 04
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1653
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 05
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1654
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 06
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1655
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 07
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1656
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k1
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/439
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k2
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/440
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k3
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/443
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k4
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/444
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k5
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/445
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k6
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/447
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0LPU_l9dw1P_WHY71wtqzB06HRsfMBtcOQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | dragon ball z
@@ -790,14 +725,6 @@ http://waitsi.top:8080/431694722116111/01694722116/5640
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar plus  +
 http://waitsi.top:8080/431694722116111/01694722116/57285
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm578PiZg5gHeImtc5loRWl9C0HNryYz_ffg&usqp=CAU" group-title="⚽ Deportes españa", dazn la liga 2
-http://restreamus.com:8080/EP5RaqhMrqXd/5cLHet3gb6Rd/233760
-
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_CA_E_22D4_EEEE0000_0_0_0.png" group-title="CINE 🇪🇦 España", 🇪🇦 |PARAMOUNT NETWORK
-http://cms-sp.shurty.live:25461/jeHTf3E2CT/689698886809/25871
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
