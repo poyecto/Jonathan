@@ -221,6 +221,38 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/17316.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 2 (México)
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 3 (México)
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 1 (México)
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 2 (mexico)
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 3 (México)
+http://iptvtree.net:8080/F27279/bdad41ff/38603
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU" group-title="⚽ Deportes Mexico",  espn 4 (México)
+http://190.108.85.20:9999/play/a00x
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title="⚽ Deportes Mexico",TVC SPORTS 
+http://iptvtree.net:8080/F27279/bdad41ff/9075
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRORK9Plo3gIbcz0C4b5h4FeCJoSUSRk6XQ&usqp=CAU" group-title="⚽ Deportes Mexico", fox sport premiun (mexico)
+http://jmrk.xyz:3050/wharper1372@gmail.com/6ryuAyvj95/604519
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⚽ Deportes Mexico",  AFIZZIONADOS 
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3QCqwL3NqdH4VWjH3mAHmgx2sga5oC8NhQ&usqp=CAU" group-title="⚽ Deportes Mexico", liga de expansión
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/369500
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="⚽ Deportes Mexico", deportes ufc 
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
 https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w1564300903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
