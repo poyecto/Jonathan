@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 1
-http://tv.soccerplus.link:8000/7ss0XsDR9W/r7wRV109n5/22455
+https://elverruca30.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="⚽️ Dazn Eventos ⚽️", DAZN 1 opc2
 http://887548118458228385.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228385.ts
