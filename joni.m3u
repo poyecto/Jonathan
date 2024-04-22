@@ -60,20 +60,6 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title=" 🥊ufc 🥊",  ufc 
-http://goldfull.pro:8880/@paguilera@/YNuDe6DashFh/390245
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title=" 🥊ufc 🥊",  ufc  usa
-http://goldfull.pro:8880/@paguilera@/YNuDe6DashFh/390246
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title=" 🥊ufc 🥊",  ufc fight pass 
-http://premierchile.shop:8080/56974748386wspztv/090821ztv/24775
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title=" 🥊ufc 🥊",  ufc fight pass 2
-http://premierchile.shop:8080/56974748386wspztv/090821ztv/20430
-
-
-
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/OdhF7ym.png " group-title="⭐️ Argentina",🇦🇷| a24
 http://galaxypro.online:8080/FranklinBustos/092094FB/99742
 
@@ -223,11 +209,6 @@ http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218727
 http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218726
 
 
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="⚽ Deportes argentina⚽️",  MESSI 2
-http://xtream.lat:8880/Alex2023/Alex2023/65672
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  directv sports
 http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/4668
@@ -464,16 +445,6 @@ http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/30635
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
 http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Entretenimiento",ENT | E!
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-#EXTINF:-1 tvg-id="GOURMTA" tvg-name="C | El Gourmet" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="⭐️ Entretenimiento",ENT | El Gourmet
-http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 
 
 
