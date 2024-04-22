@@ -332,6 +332,23 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 estrenos
+http://maiolve.club:8080/santiago245/santiago245/2090936
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 terror
+http://maiolve.club:8080/santiago245/santiago245/2090934
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 estrenos 2022
+http://maiolve.club:8080/santiago245/santiago245/2133347
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 marvel
+http://maiolve.club:8080/santiago245/santiago245/177987
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 cinema
+http://maiolve.club:8080/Helen/12345678/210825
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 clasicos disney
+http://maiolve.club:8080/Helen/12345678/2090938
+#EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 canal dreamworks
+http://maiolve.club:8080/Helen/12345678/2163078
+
+
+
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIc7BpoYZOZJ4VcSBTXbtq31ZaE_SVZIkxA&usqp=CAU" group-title="⭐️ Cine universal", STUDIO UNIVERSAL
 http://galaxypro.online:8080/Jaime12P/JaimeU14/49798
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qOsV3TmjBjbyiXLbCvKjObyETy7wP5Y97A&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL CINEMA
