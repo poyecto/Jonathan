@@ -281,50 +281,6 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/17316.ts
 
 
 
-
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo 80s
-http://maiolve.club:8080/Helen/12345678/2098852
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo latino
-http://maiolve.club:8080/Helen/12345678/2098850
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo pop
-http://maiolve.club:8080/Helen/12345678/2098848
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| retro plus
-http://maiolve.club:8080/Helen/12345678/2098842
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| htv
-http://maiolve.club:8080/Helen/12345678/2098837
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| classic project español
-http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/2098871
-#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| musica
-http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/2098843
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
-https://vdochile.com:3119/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCVFZYSGWvjbAZMhAfmhYAlIVh7Nz6ud0-rg&usqp=CAU" group-title="⭐️ Musica",MUS| maleta mix music
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w1655577242.m3u8?PlaylistM3ULC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IR6ubaLnCGvkjEpsYJ1WZUh__kIomU_TdA&usqp=CAU" group-title="⭐️ Musica",MUS| MTV
-http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wISSH5rlsKYEkVWUP2-whlzds-JVQyEy5w&usqp=CAU" group-title="⭐️ Musica",MUS| NickMusic
-http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top tv
-https://isaocorp.cloudecast.com:443/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuBHcuzCWNPHxoPdvqWWvCrZ_kwONpnftTw&usqp=CAU"  group-title="⭐️ Musica",MUS| rock tv
-https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
-https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica",MUS| circuito pop 
-https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 estrenos
 http://maiolve.club:8080/santiago245/santiago245/2090936
 #EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 terror
