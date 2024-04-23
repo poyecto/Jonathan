@@ -281,12 +281,21 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/17316.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
-https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w1564300903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
-https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica",MUS| v classic tv tropical
-https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
+
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo 80s
+http://maiolve.club:8080/Helen/12345678/2098852
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo latino
+http://maiolve.club:8080/Helen/12345678/2098850
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| vevo pop
+http://maiolve.club:8080/Helen/12345678/2098848
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| retro plus
+http://maiolve.club:8080/Helen/12345678/2098842
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| htv
+http://maiolve.club:8080/Helen/12345678/2098837
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| classic project español
+http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/2098871
+#EXTINF:-1 tvg-logo="  " group-title="⭐️ Musica",MUS| musica
+http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/2098843
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
@@ -299,32 +308,16 @@ http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp"  group-title="⭐️ Musica",MUS| si tv
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top tv
 https://isaocorp.cloudecast.com:443/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuBHcuzCWNPHxoPdvqWWvCrZ_kwONpnftTw&usqp=CAU"  group-title="⭐️ Musica",MUS| rock tv
 https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDJWvs4ZdfN1nKmnKuFU9eMrnqnGEkMz6kQ&usqp=CAU" group-title="⭐️ Musica",MUS| amordiscos 
-https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkGpw2noPVnyKNnXpLUekrcwBGtoFoJVfeA&usqp=CAU" group-title="⭐️ Musica",MUS| k pop
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkL7X6Yk_fFLy3wMz6SvNI5uTi5ODLiCl4A&usqp=CAU" group-title="⭐️ Musica",MUS| planeta tv
-https://scl.edge.grupoz.cl/music/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74UTr-S1lJuvp86tAcx7zdqXlQq6Y0kcdA&usqp=CAU" group-title="⭐️ Musica",MUS| flow caribeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica",MUS| circuito pop 
 https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
-https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
-https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| soy plancha tv
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
