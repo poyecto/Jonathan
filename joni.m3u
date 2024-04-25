@@ -1,65 +1,3 @@
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 1
-https://elverruca30.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 1 opc2
-http://887548118458228385.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228385.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 2
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144856.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 2 opc2
-http://887548118458228388.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228388.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 3
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144859.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 3 opc3
-http://887548118458228395.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228395.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 4
-https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/12363
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 4 opc2
-http://vipfortic.top:8080/VIP0121170821534853/1a839411136a/250
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 🏎F1🏎 
-http://927764536234165419.ofds0401.xyz:80/play/fe715725/3pTCaErhC6/165419.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 🏎F1🏎 opc2
-http://vipfortic.top:8080/VIP0121170821534853/1a839411136a/251
-
-
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay1
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay2
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay3
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay4
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay5
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay6
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay7
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay8
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay9
-https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.m3u8
-
-
-
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/OdhF7ym.png " group-title="⭐️ Argentina",🇦🇷| a24
 http://galaxypro.online:8080/FranklinBustos/092094FB/99742
 
@@ -124,6 +62,139 @@ http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349291
 
 #EXTINF:-1 tvg-logo=" https://media.c5n.com/p/b687a1d180c4735fd3c63d5a0ce77839/adjuntos/326/imagenes/000/221/0000221658/790x0/smart/gran-hermano.jpg "  group-title="👁GRAN HERMANO👁",  GH camara 3
 http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349292
+
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  directv sports
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/4668
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  directv sports 2
+http://tv.soccerplus.link:8000/M4V7GTBwU6/T8eBPhSTUg/22688
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  directv fight
+http://tv.nousiptv.com:8080/live/943333/fatimar/1155911.m3u8
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn
+http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/181047
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 2
+https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKr7EyU9yQoPDfieBcwk2TpDyJzJNU8FO2RJOQZIyeYVS/ts
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 3
+http://tvbross.com:8090/comandoalmache/almache2022../78
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 4
+https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKgz7IlCIjN3xQzNkgsCWkXrBdVGJii6OuPQCby0jVoer/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium
+http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/99
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc2
+http://tvbross.com:8090/comandoalmache/almache2022../2358
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc3
+http://tvlatino.club:2082/davidpro03.23/Yc3JFfpcGF/190664
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc4
+https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKvx3_aBl1MSp0wygBCU_m-bBCj1Lu1I7EiXHuj043eZX/ts
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/141445
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports opc 2
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports 2 
+https://nxt.plus:8443/Antony/1234/81341
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports 2 opc 
+http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/978
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU" group-title="⚽ Deportes argentina⚽️", fox sports 3 
+http://rasaiptv.com:8080/CarlosD/CarlosD/339664
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS
+http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/267
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS opc 2
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS internacional
+http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/233945
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2140800.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc2
+http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/26530
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc3
+http://goldfull.pro:8880/@paguilera@/YNuDe6DashFh/327920
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc4
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/17316.ts
+
+
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay1
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay2
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay3
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay4
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay5
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay6
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay7
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay8
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay9
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 1
+https://elverruca30.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 1 opc2
+http://887548118458228385.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228385.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 2
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144856.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 2 opc2
+http://887548118458228388.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228388.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 3
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2144859.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 3 opc3
+http://887548118458228395.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228395.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 4
+https://premierchile.shop:8443/23yaHFPEWwrq/UT9Bnd6aMF/12363
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 4 opc2
+http://vipfortic.top:8080/VIP0121170821534853/1a839411136a/250
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 🏎F1🏎 
+http://927764536234165419.ofds0401.xyz:80/play/fe715725/3pTCaErhC6/165419.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 🏎F1🏎 opc2
+http://vipfortic.top:8080/VIP0121170821534853/1a839411136a/251
+
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine PREMIUM",CINE| HBO
@@ -231,77 +302,6 @@ http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/218726
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  directv sports
-http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/4668
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  directv sports 2
-http://tv.soccerplus.link:8000/M4V7GTBwU6/T8eBPhSTUg/22688
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  directv fight
-http://tv.nousiptv.com:8080/live/943333/fatimar/1155911.m3u8
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn
-http://maiolve.club:8080/Emanueloscar/Z2QQyEJSXqds/181047
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 2
-https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKr7EyU9yQoPDfieBcwk2TpDyJzJNU8FO2RJOQZIyeYVS/ts
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 3
-http://tvbross.com:8090/comandoalmache/almache2022../78
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 4
-https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKgz7IlCIjN3xQzNkgsCWkXrBdVGJii6OuPQCby0jVoer/ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium
-http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/99
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc2
-http://tvbross.com:8090/comandoalmache/almache2022../2358
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc3
-http://tvlatino.club:2082/davidpro03.23/Yc3JFfpcGF/190664
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc4
-https://zonamovie.live:443/play/CCK0sK0A_Mfytwy1yCgZKvx3_aBl1MSp0wygBCU_m-bBCj1Lu1I7EiXHuj043eZX/ts
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports
-http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/141445
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports opc 2
-
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports 2 
-https://nxt.plus:8443/Antony/1234/81341
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports 2 opc 
-http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/978
-
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU" group-title="⚽ Deportes argentina⚽️", fox sports 3 
-http://rasaiptv.com:8080/CarlosD/CarlosD/339664
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS
-http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/267
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS opc 2
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina⚽️", tyc SPORTS internacional
-http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/233945
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2140800.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc2
-http://titanpro.cc:2095/azhaitiinterc349/tUCP4JyX4H/26530
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc3
-http://goldfull.pro:8880/@paguilera@/YNuDe6DashFh/327920
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina⚽️",   TNT Sports opc4
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/17316.ts
-
-
-
 #EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 estrenos
 http://maiolve.club:8080/santiago245/santiago245/2090936
 #EXTINF:-1 tvg-logo="  " group-title="✅ 24/7 cine",24/7 | cine 24/7 terror
@@ -335,57 +335,57 @@ http://spaticplas.org:8080/2tPqxdyfvv3z/xbC9XYJMjPAD/207464
 
 
 
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="⭐️ Cine Premium",CINE| Cine Hispano
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="⭐️ Cine ",CINE| Cine Hispano
 http://galaxypro.online:8080/Jaime12P/JaimeU14/393256
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="⭐️ Cine Premium",CINE| Cine Familiar
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="⭐️ Cine ",CINE| Cine Familiar
 http://galaxypro.online:8080/Jaime12P/JaimeU14/393259
-#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ Cine Premium",CINE| FMH Movies
+#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ Cine ",CINE| FMH Movies
 http://tvlatino.club:2082/pedrovip6mes/3k67n7QfhqxP/345523
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="⭐️ Cine Premium",CINE| cine Premier
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="⭐️ Cine ",CINE| cine Premier
 http://galaxypro.online:8080/Jaime12P/JaimeU14/393255
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine Premium",CINE| usa network 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine ",CINE| usa network 
 http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqagZsvbvuG92jPYcyIqpeCMRcbRpZwTNfkw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| starz
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqagZsvbvuG92jPYcyIqpeCMRcbRpZwTNfkw&usqp=CAU" group-title="⭐️ Cine ",CINE| starz
 http://167.114.156.136:25461/INFINITV/ZX89NM22/190
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine ",CINE| FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine ",CINE| Space
 http://gotv.vip:8880/Alex2023/Alex2023/113
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine ",CINE| A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cinemax
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&usqp=CAU" group-title="⭐️ Cine ",CINE| cinemax
 http://europass.site:8080/Exgardo2022/ZeCbag12Rp/1444
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine ",CINE| TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine ",CINE| TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine ",CINE| AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine ",CINE| AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
+#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine ",CINE| Paramount
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine ",CINE| Cinecanal
 http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/30671  
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgK8nmyYFbfs2asYSsyf0VEax8yjJnLYJQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de pelicula
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgK8nmyYFbfs2asYSsyf0VEax8yjJnLYJQ&usqp=CAU " group-title="⭐️ Cine ",CINE| de pelicula
 http://mohdtv.com:8880/voby3089/79527684/51413
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de película clásico 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine ",CINE| de película clásico 
 http://europass.site:8080/Exgardo2022/ZeCbag12Rp/1449
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine ",CINE| Warner
 http://tvbross.com:8090/comandoalmache/almache2022../15728
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine ",CINE| sony movies
 http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine ",CINE| Sony Channel
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwAqYaamtexrk7fWIwrM7ptnqhyOBAy6UyQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Azteca Cinema
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwAqYaamtexrk7fWIwrM7ptnqhyOBAy6UyQ&usqp=CAU" group-title="⭐️ Cine ",CINE| Azteca Cinema
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Europa-Europa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine ",CINE| Europa-Europa
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine ",CINE| STAR CHANNEL
 http://newlife3.wanicelife.com:8880/6mmc020028/31176499/51383
-#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
+#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine ",CINE| Multipremier
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| terror tv
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ Cine ",CINE| terror tv
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w1119975771.m3u8
 
 
@@ -421,74 +421,113 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="⭐ Pluto tv", Los Tres Chiflados
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7 INFANTILES", Los Tres Chiflados
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="⭐ Pluto tv",  Nickelodeon iCarly
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="24/7 INFANTILES",  Nickelodeon iCarly
 https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="⭐ Pluto tv", Kenan y Kel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="24/7 INFANTILES", Kenan y Kel
 https://r.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="⭐ Pluto tv", Teen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="24/7 INFANTILES", Teen
 https://r.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="⭐ Pluto tv", PAW Patrol Patrulla de Cachorros
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="24/7 INFANTILES", PAW Patrol Patrulla de Cachorros
 https://r.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="⭐ Pluto tv", Nick Jr. Club
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="24/7 INFANTILES", Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" group-title="⭐ Pluto tv", La Exploradora
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" group-title="24/7 INFANTILES", La Exploradora
 https://r.mjh.nz/PlutoTV/656e28a2954b020008ed133a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="⭐ Pluto tv", Las Pistas de Blue
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="24/7 INFANTILES", Las Pistas de Blue
 https://r.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="⭐ Pluto tv", Baby Shark TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="24/7 INFANTILES", Baby Shark TV
 https://r.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="⭐ Pluto tv", Babyfirst
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="24/7 INFANTILES", Babyfirst
 https://r.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="⭐ Pluto tv", Junior
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="24/7 INFANTILES", Junior
 https://r.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="⭐ Pluto tv", Barney
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="24/7 INFANTILES", Barney
 https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="⭐ Pluto tv", Babar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="24/7 INFANTILES", Babar
 https://r.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="⭐ Pluto tv", El Reino Infantil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="24/7 INFANTILES", El Reino Infantil
 https://r.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="⭐ Pluto tv", Nickelodeon Clásico
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="24/7 INFANTILES", Nickelodeon Clásico
 https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="⭐ Pluto tv", Rugrats
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="24/7 INFANTILES", Rugrats
 https://r.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="⭐ Pluto tv", Nickelodeon Rocket Power
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="24/7 INFANTILES", Nickelodeon Rocket Power
 https://r.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="⭐ Pluto tv", Nickelodeon Pluto TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="24/7 INFANTILES", Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="⭐ Pluto tv", Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="24/7 INFANTILES", Bob Esponja Pantalones Cuadrados
 https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="⭐ Pluto tv", Los Padrinos Mágicos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="24/7 INFANTILES", Los Padrinos Mágicos
 https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="⭐ Pluto tv", Las Tortugas Ninja
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="24/7 INFANTILES", Las Tortugas Ninja
 https://r.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="⭐ Pluto tv", Kids
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="24/7 INFANTILES", Kids
 https://r.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="⭐ Pluto tv", Anime Kids
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="24/7 INFANTILES", Anime Kids
 https://r.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0LPU_l9dw1P_WHY71wtqzB06HRsfMBtcOQ&usqp=CAU" group-title="24/7 INFANTILES",24/7 | dragon ball z
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37813.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbOsnQQVqj13Kj_awAC_exQQ_glLDoJ8pkQ&usqp=CAU" group-title="24/7 INFANTILES",24/7 | los picapiedras 
+http://tvbross.com:8090/comandoalmache/almache2022../2373
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe1ZtobIX19VFVbKyg53xwlmsQrcqa9_A4w&usqp=CAU" group-title="24/7 INFANTILES",24/7 | bob esponja
+http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/263168.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlW0f2siItaWBfHeSaTD6iBtJFHVy0JiSyIQ&usqp=CAU" group-title="24/7 INFANTILES",24/7 | el pajaro loco 
+https://ultrapremium.cloud:8443/49ruqe45zu42su67/m59me2me37m/695
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_La6kE6J93gv1hoZFGBZiw3gpYewqb_nHsg&usqp= CAU" group-title="24/7 INFANTILES",24/7 | la pantera rosa
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/38447.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFTYcYQqiDTfG2LGzr6EQXXZ72_1pv8KHA&usqp=CAU" group-title="24/7 INFANTILES",24/7 | pokemon
+http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/37824
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4bvHd6j8n_n9rocdg6A2KFhsrp-fQsy_-Q&usqp=CAU" group-title="24/7 INFANTILES",24/7 | tom & jerry
+http://tvmate.icu:8080/Alan/Alan1234/125635
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnRcqxlC9COnbKXQKQg7QVdJjaMefyl-4ew&usqp=CAU" group-title="24/7 INFANTILES",24/7 |  spiderman 
+http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/37857
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOyWbL0VXg28p-hcyGZWC_l1nboZW-xPcoQ&usqp=CAU" group-title="24/7 INFANTILES",24/7 |  teen titans go
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169430.ts
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IrDaVDRlEM7JJ89bfnAgaDwHamIqCamF6Q&usqp=CAU" group-title="24/7 INFANTILES",24/7 | ben 10 fuerza alienígena 
+http://tvbross.com:8090/comandoalmache/almache2022../17749
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM52Z8pMyeeqECbgQ1ivVN8VxTshFY11iJIA&usqp=CAU" group-title="24/7 INFANTILES",24/7 |  escandalosos
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/186831.ts
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="24/7 INFANTILES",24/7 | los Simpsons
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jw9Em8tHt6ersCHSg93C0_5j74qH54yMog&usqp=CAU" group-title="24/7 INFANTILES",24/7 | batman
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/60048
 
 
 
@@ -508,35 +547,6 @@ http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244250
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdk" group-title="⭐️ Infantiles",INF| disney chanel
 http://spaticplas.org:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/171
-
-
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0LPU_l9dw1P_WHY71wtqzB06HRsfMBtcOQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | dragon ball z
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37813.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbOsnQQVqj13Kj_awAC_exQQ_glLDoJ8pkQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | los picapiedras 
-http://tvbross.com:8090/comandoalmache/almache2022../2373
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe1ZtobIX19VFVbKyg53xwlmsQrcqa9_A4w&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | bob esponja
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/263168.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlW0f2siItaWBfHeSaTD6iBtJFHVy0JiSyIQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | el pajaro loco 
-https://ultrapremium.cloud:8443/49ruqe45zu42su67/m59me2me37m/695
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_La6kE6J93gv1hoZFGBZiw3gpYewqb_nHsg&usqp= CAU" group-title="✅ 24/7 INFANTILES",24/7 | la pantera rosa
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/38447.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFTYcYQqiDTfG2LGzr6EQXXZ72_1pv8KHA&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | pokemon
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/37824
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4bvHd6j8n_n9rocdg6A2KFhsrp-fQsy_-Q&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | tom & jerry
-http://tvmate.icu:8080/Alan/Alan1234/125635
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnRcqxlC9COnbKXQKQg7QVdJjaMefyl-4ew&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 |  spiderman 
-http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/37857
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOyWbL0VXg28p-hcyGZWC_l1nboZW-xPcoQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 |  teen titans go
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169430.ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IrDaVDRlEM7JJ89bfnAgaDwHamIqCamF6Q&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | ben 10 fuerza alienígena 
-http://tvbross.com:8090/comandoalmache/almache2022../17749
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM52Z8pMyeeqECbgQ1ivVN8VxTshFY11iJIA&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 |  escandalosos
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/186831.ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | los Simpsons
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jw9Em8tHt6ersCHSg93C0_5j74qH54yMog&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | batman
-http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/60048
 
 
 
