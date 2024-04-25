@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 1
 https://elverruca30.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="⚽️ Dazn Eventos ⚽️", DAZN 1 opc2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU " group-title="⚽️ Dazn Eventos ⚽️", DAZN 1 opc2
 http://887548118458228385.napgoto413.xyz:80/play/fe928915/hU4Gvb7cU33E/228385.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU " group-title="⚽ Dazn Eventos ⚽", DAZN 2
@@ -126,74 +126,95 @@ http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349291
 http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/349292
 
 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO",   HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine PREMIUM",CINE| HBO
 http://tvbross.com:8090/comandoalmache/almache2022../431
 
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="⭐️ Cine HBO",CINE| HBO 2
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="⭐️ Cine PREMIUM",CINE| HBO 2
 http://tvbross.com:8090/comandoalmache/almache2022../429
 
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="⭐️ Cine HBO",CINE| HBO +
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="⭐️ Cine PREMIUM",CINE| HBO +
 http://tvbross.com:8090/comandoalmache/almache2022../424
 
-#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine HBO",   HBO Family
+#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine PREMIUM",  HBO Family
 http://tvbross.com:8090/comandoalmache/almache2022../426
 
-#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine HBO",   HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine PREMIUM",   HBO Xtreme
 http://galaxypro.online:8080/Jaime12P/JaimeU14/237110
 
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine HBO",   HBO Mundi
+#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine PREMIUM",   HBO Mundi
 http://tvbross.com:8090/comandoalmache/almache2022../421
 
-#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine HBO",   HBO POP
+#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine PREMIUM",   HBO POP
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/139.m3u8
 
-#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine HBO",  HBO signature
+#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine PREMIUM",  HBO signature
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU " group-title="⭐️ Cine HBO",  HBO (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU " group-title="⭐️ Cine PREMIUM",  HBO (opc2)
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2092584.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU" group-title="⭐️ Cine HBO",  HBO HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYgKOmVvDd3Yl1BMsVanhuvJIMuT7ljW-Jg&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/29068
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO 2  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO 2  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/22207
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO 2 HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO 2 HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/23545
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO FAMILY  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO FAMILY  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/22208
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU " group-title="⭐️ Cine HBO",  HBO FAMILY HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0uAbML0oYOyt1M8qntLLgFgb3vVRfqDJYw&usqp=CAU " group-title="⭐️ Cine PREMIUM",  HBO FAMILY HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/29066
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU" group-title="⭐️ Cine HBO",  HBO MUNDI  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO MUNDI  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/67467
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU " group-title="⭐️ Cine HBO",  HBO MUNDI HD  (opc3)
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY_W4DMz4UqWwPP-TCrj_k-EGFfXgo4M1wg&usqp=CAU " group-title="⭐️ Cine PREMIUM",  HBO MUNDI HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/55753
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO PLUS  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO PLUS  (opc2)
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2092585.ts
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO PLUS HD  (opc3)
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGZtR5LRUKAO59fm9dnmnrx2Wv2kRto-GQ&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO PLUS HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/29064
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyfoKLjcgq1R-cYdQQQpUGG_wYOSyH14pMQ&usqp=CAU" group-title="⭐️ Cine HBO",  HBO POP HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyfoKLjcgq1R-cYdQQQpUGG_wYOSyH14pMQ&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO POP HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/54581
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO SIGNATURE  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO SIGNATURE  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/22210
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine HBO",  HBO SIGNATURE HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQA8dfTKgLjGsqdYqSYVPeoUQ2BuIor3gsEw&usqp=CAU" group-title="⭐️ Cine PREMIUM",  HBO SIGNATURE HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/29065
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU  " group-title="⭐️ Cine HBO",  HBO XTREME  (opc2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU  " group-title="⭐️ Cine PREMIUM",  HBO XTREME  (opc2)
 http://tv.soccerplus.link:8000/hijos/1718155763/92725
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU " group-title="⭐️ Cine HBO",  HBO XTREME HD  (opc3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0KZUii5TK2u2eQxkEAilnmc8EuzAW7jCGQ&usqp=CAU " group-title="⭐️ Cine PREMIUM",  HBO XTREME HD  (opc3)
 http://tv.soccerplus.link:8000/hijos/1718155763/55754
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIc7BpoYZOZJ4VcSBTXbtq31ZaE_SVZIkxA&usqp=CAU" group-title="⭐️ Cine PREMIUM", STUDIO UNIVERSAL
+http://galaxypro.online:8080/Jaime12P/JaimeU14/49798
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qOsV3TmjBjbyiXLbCvKjObyETy7wP5Y97A&usqp=CAU " group-title="⭐️ Cine PREMIUM", UNIVERSAL CINEMA
+http://galaxypro.online:8080/Jaime12P/JaimeU14/237081
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcJeWUiX7R5wEIy-_-AZrs3ejVD3vTzkW5w&usqp=CAU " group-title="⭐️ Cine PREMIUM", UNIVERSAL COMEDY
+http://spaticplas.org:8080/2tPqxdyfvv3z/xbC9XYJMjPAD/109
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRI4XNuPPnyKiR70ikktQXILTf1zfYzRR6A&usqp=CAU " group-title="⭐️ Cine PREMIUM", UNIVERSAL CRIME
+http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/155981
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3OjqXvnrQhmXAEKcnssyu31BcwJZpKJF34w&usqp=CAU" group-title="⭐️ Cine PREMIUM", UNIVERSAL PREMIERE
+http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/156358
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Ojz0SxFaEPwYmR1I6DY8OmbpExsMgUEBg&usqp=CAU" group-title="⭐️ Cine PREMIUM", UNIVERSAL TV
+http://sdmx.vip:8080/belpley/sYqKZQrTZa/155179
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine PREMIUM", UNIVERSAL REALITY 
+http://xtream.lat:8880/Alex2023/Alex2023/73
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtIapQyTDJduffE9gL9GRkgA52PGIhpXgMw&usqp=CAU " group-title="⭐️hbo 4k", hbo 2 4k
@@ -298,20 +319,6 @@ http://maiolve.club:8080/Helen/12345678/2163078
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIc7BpoYZOZJ4VcSBTXbtq31ZaE_SVZIkxA&usqp=CAU" group-title="⭐️ Cine universal", STUDIO UNIVERSAL
-http://galaxypro.online:8080/Jaime12P/JaimeU14/49798
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qOsV3TmjBjbyiXLbCvKjObyETy7wP5Y97A&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL CINEMA
-http://galaxypro.online:8080/Jaime12P/JaimeU14/237081
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcJeWUiX7R5wEIy-_-AZrs3ejVD3vTzkW5w&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL COMEDY
-http://spaticplas.org:8080/2tPqxdyfvv3z/xbC9XYJMjPAD/109
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRI4XNuPPnyKiR70ikktQXILTf1zfYzRR6A&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL CRIME
-http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/155981
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3OjqXvnrQhmXAEKcnssyu31BcwJZpKJF34w&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL PREMIERE
-http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/156358
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Ojz0SxFaEPwYmR1I6DY8OmbpExsMgUEBg&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL TV
-http://sdmx.vip:8080/belpley/sYqKZQrTZa/155179
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL REALITY 
-http://xtream.lat:8880/Alex2023/Alex2023/73
 
 
 
