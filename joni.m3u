@@ -104,7 +104,6 @@ http://tv.proyectox.vip:8080/ruben2022/zvFEhfYvcX/141445
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports opc 2
 
-
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  fox sports 2 
 https://nxt.plus:8443/Antony/1234/81341
 
@@ -163,6 +162,23 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ykg6i70fd2ftj07mircvc/AwUFQ-uK_400x400.jpg?rlkey=3bnj1pclghdq5bd7i2c1bo4oe&dl=0 " group-title="⭐️tycsportsplay⭐️", tycsportplay9
 https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/SporTV_2021_Symbol.svg/revision/latest/scale-to-width-down/250?cb=20211111033822" groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 1
+http://50.7.22.154:8000/play/728WHK42E3/nphpCTQNaQp/759525.ts?token=H0EMV0RQRl8UVwkDUgQACVUAUgQNCAVSVwRSAFpZAgQFAAUDVFpcUVNDFRZAFkBdBw48WFASDVMADlMKVhQXRhcGFmleXEZfFFMPAgdRAhpKQRdYWVUVXgQAVwtVCAwLUVRIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VKHRBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBUYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU" groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 2
+http://185.150.190.225:16472/.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 3
+http://185.150.190.225:16468/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 4
+http://185.150.190.225:16476/.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 5
+http://185.150.190.225:16482/.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYD0CCcD-OasWh8JtJIx3b15KYMqLQVQL_w&usqp=CAU " group-title="⚽️ Futbol Brasil",|BAND SPORTS
+https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png  " group-title="⚽️ Futbol Brasil",|ESPN 4
+http://40758862627821883.tkop413.xyz:80/play/Samue818LA/SamueM131/821883.ts
 
 
 
@@ -674,20 +690,7 @@ http://tv.nousiptv.com:8080/live/943333/fatimar/53372.m3u8
  
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/SporTV_2021_Symbol.svg/revision/latest/scale-to-width-down/250?cb=20211111033822" groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 1
-http://50.7.22.154:8000/play/728WHK42E3/nphpCTQNaQp/759525.ts?token=H0EMV0RQRl8UVwkDUgQACVUAUgQNCAVSVwRSAFpZAgQFAAUDVFpcUVNDFRZAFkBdBw48WFASDVMADlMKVhQXRhcGFmleXEZfFFMPAgdRAhpKQRdYWVUVXgQAVwtVCAwLUVRIFEdRAEcMD0xYX04QXR4XBkNaUVs7UVIQUQBdFwkKFghaGxoLC2kFXFlSDFYaXEFSExgSXhdFFVxWFlRZH0YBDUJFWRAAFFtXQV8OHhoFDBZfQEJORg8VKHRBFBdWHBcBWERRCwsUWxtAQEAeGg8QPENRQ0MWUFYLXREaDxFUQUgUWlkcOlUOV1pWAUZRCQ0QEw4SBUYZFQtXDVFBXBY8FF9TGl4LQw1VSQ==
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU" groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 2
-http://185.150.190.225:16472/.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 3
-http://185.150.190.225:16468/ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 4
-http://185.150.190.225:16476/.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " groupo-title="⚽️ Futbol Brasil", |Sport TV Premiere 5
-http://185.150.190.225:16482/.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYD0CCcD-OasWh8JtJIx3b15KYMqLQVQL_w&usqp=CAU " group-title="⚽️ Futbol Brasil",|BAND SPORTS
-https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png  " group-title="⚽️ Futbol Brasil",|ESPN 4
-http://40758862627821883.tkop413.xyz:80/play/Samue818LA/SamueM131/821883.ts
+
 
 
 
