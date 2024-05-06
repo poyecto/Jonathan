@@ -353,37 +353,6 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/201151
 
 
 
-#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
-http://iptvtree.net:8080/F27279/bdad41ff/147657
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
-http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
-http://iptvtree.net:8080/F27279/bdad41ff/3063
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
-http://iptvtree.net:8080/F27279/bdad41ff/9059
-#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
-http://iptvtree.net:8080/F27279/bdad41ff/3022
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
-http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1 tvg-id="DWRLDHE" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
-https://newultra.xyz:8443/998650697tv/7b896vg/423 
-#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
-http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
-http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU " group-title="⭐️ Cultura",CUL|  nat geo wild
-http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/30635
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
-http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7 INFANTILES", Los Tres Chiflados
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
@@ -525,7 +494,7 @@ https://dashtvcloud.online:8443/josealbrook/panama121/150448
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsjDmoWWNTubsSkmG8oaImdy3MhknjfgDhw&usqp=CAU"group-title="⚽ Deportes españa",  la liga Movistar 
-http://waitsi.top:8080/431694722116111/01694722116/5758
+http://417543022844165392.tkop413.xyz:80/play/ja810198/NT3W3crnGm/165392.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU " group-title="⚽ Deportes españa", movistar deportes
 http://coconut23.chocoplus.xyz:8080/TomasClicKTv/TKm9apZJ2qHP/46538 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar deportes 2
@@ -533,7 +502,7 @@ http://50.7.144.138:8000/play/fe94136/tGFetHT7kC/538680.ts?token=H0EMV0RQRl8UBVt
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar deportes 3
 http://waitsi.top:8080/431694722116111/01694722116/5640
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05VqMYkUqmJPfaweWnXSlCO0gynDVjquHvQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga bar
-http://121695522360165407.ofg0316.xyz:80/play/BA5BG4JX3W/uXh3HeTvNynp/165407.ts
+http://rasaiptv.com:8080/005global/vf42hTxxB8Mw/144032
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga de campeones
 http://664308075382165359.ofd0308.xyz:80/play/vi07057/3698766/165359.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga de campeones 2
@@ -542,6 +511,10 @@ http://664308075382282458.ofd0308.xyz:80/play/vi07057/3698766/282458.ts
 http://664308075382282470.ofd0308.xyz:80/play/vi07057/3698766/282470.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xrKy9pzIaMZOfFmtJXOsXgQI9KVAJxS0vQ&usqp=CAU"group-title="⚽ Deportes españa",  la liga de campeones 4
 http://454101945716282472.napgoto413.xyz:80/play/Eusebio1234/PoetaJuanBoscan20/282472.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VLQqdLlZSYcAGJ1Cwnn0QZK6mPeaCA2c3A&usqp=CAU"group-title="⚽ Deportes españa",  dazn liga Femenina 
+http://tritonblack.tel:8880/Avelino24/yx4hNgujFrVR8FP/237846
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="⚽ Deportes españa",  vamos 
+http://50.7.220.26:8000/live/hu917950/xECyrnnEKr8/321072.ts?
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⚽ Deportes españa",  bein esport 
 http://31.42.185.158:8000/5527574227/TJNFVOGBLe/126452
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSQ9I0ATqz6S2S1GRDXIyxVZwZLjU2soxrQ&usqp=CAU" group-title="⚽ Deportes españa",   Eurosport
@@ -552,10 +525,8 @@ http://pro.boxdigital.org:8080/cmd@serviciosvisuales/YtGAVAF4@mag/228378
 http://local.hucemas.pro:88/live/raulpaco1238/raulpaco9983/11.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYINSGioINX6eTaZDkhPca2TDaGBQzBnm6SA&usqp=CAU" group-title="⚽ Deportes españa",  Dazn liga 1
 http://527075722741320792.ofds0328.xyz:80/play/ja810198/NT3W3crnGm/320792.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrh_WYKnuLcZ-SK-1wIHtqX95p1tuQw38DA&usqp=CAU " group-title="⚽ Deportes españa", sport 3
-http://117.55.203.234:37500/malki1/malki/107236
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar plus  +
-http://waitsi.top:8080/431694722116111/01694722116/57285
+http://985511922102646234.tkop413.xyz:80/play/ja810198/NT3W3crnGm/646234.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm578PiZg5gHeImtc5loRWl9C0HNryYz_ffg&usqp=CAU" group-title="⚽ Deportes españa", dazn la liga 2
 
 
