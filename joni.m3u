@@ -192,8 +192,6 @@ http://185.150.190.225:16468/ts
 http://185.150.190.225:16476/.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t9hyBnxLrNhCg3T8VUbjFgGBwwpIEWM0gw&usqp=CAU " group-title="⚽️ Futbol Brasil", |Sport TV Premiere 5
 http://185.150.190.225:16482/.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYD0CCcD-OasWh8JtJIx3b15KYMqLQVQL_w&usqp=CAU " group-title="⚽️ Futbol Brasil",|BAND SPORTS
-https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png  " group-title="⚽️ Futbol Brasil",|ESPN 4
 
 
@@ -565,8 +563,7 @@ http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/181730
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/25366.ts
 #EXTINF:-1 tvg-logo=" https://downloadr2.apkmirror.com/wp-content/uploads/2022/12/67/639cf6223c8b6-384x384.png " group-title="⚽ Deportes Chile", Tnt estadio sports (chile)
 http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/100107
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1pYruQplSvO-9AsGudXGGqT4Ww0Fik2TPw&usqp=CAU" group-title="⚽ Deportes Chile", CDO PREMIUM (chile)
-http://daleplay.club:8080/live/2jebd7t00/VP63hCdbqwxb/276342.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
