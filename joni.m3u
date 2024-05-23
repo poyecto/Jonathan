@@ -598,7 +598,8 @@ http://tv.nousiptv.com:8080/live/943333/fatimar/53372.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo=" " group-title="VOD || ESTRENOS 2024", (ONLINE) Nahir (2024)
+http://tvlatino.live:8080/play/841t1JMAoPXaYywf9ISkN8tnM9RG3afGpB6Z79gMQN0JPy1QKoUCUQhZidnbH5FU
 
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/c0412fbd4aeca53d032fc519c5caeaf8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Criptoestafas (2024)
 http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/249821.mkv
