@@ -593,18 +593,402 @@ http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
 http://tv.nousiptv.com:8080/live/943333/fatimar/53372.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  super tennis
-http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/181894
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  tennis channel
-http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/181895
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  ufc fight pass
-http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/181898
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  ufc us
-http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/128936
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  wwe network
-http://pro.boxdigital.org:8080/qYmazhXcMt/29U3yUvBXF/73707
-#EXTINF:-1 tvg-logo="" group-title=" Deportes varios",  nba tv
-http://iptvhogar.club:25461/live/Profe_Raulito/3652748250/131.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/c0412fbd4aeca53d032fc519c5caeaf8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Criptoestafas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/249821.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/cc12973902768d232a11de33e28ce0c5.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Juego de Roles (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/253539.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3349c0c4d35770355cc285cd3075dbf9.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1 (2024) (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/253540.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5e30b9d77f96228a19ddc2ba2c51d186.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Lift: Un robo de primera clase (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/253541.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/96975091696f1203c81604bf65980d9f.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La piscina (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/253543.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f1adde1aa999660df0ebeb3c89d46a6e.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Una vez más (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/253544.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/85e954864a9cbe7d780777a0efe2e55c.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) De las cenizas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/256772.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/203e92b8deb0a4debb51ee9e70c10350.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La Cocina (2023)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/257189.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/de365cfbaac23541bc3968bd722f43ff.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Cazadores en tierra inhóspita (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/262149.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/cabf1e5fefb2add4e9529a6fef39297b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Los Menospreciados (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/262153.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/87a9f6011ead75ba5aa63373d0db3943.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Chicas malas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/262154.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7d63392745f49210fefd40f24e966fd6.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Monsters: El infierno del dragón (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/262155.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ee6b5d2fcdce7b3d025e888e59252809.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Si fueras el último (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/262157.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/506f598d7eedc39d03ddb06f508efc1e.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Bosco (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/264629.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/87b3f406f1983be85a87c4ff4519d6cf.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Orión y la oscuridad (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/264638.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/a66aa4d1a87a0f06d469550714059636.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Upgrade: Primera clase (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/265246.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/15c372e9ad558218402dae997f79db1b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La gran noche del pop (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/265247.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6f02c0023dd5aa8e215bfe270b5c4e81.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Argylle (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/265282.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3f7e736436c3956aad3da2260689e3d8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Lo que ignoramos (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/265283.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3abeefacf77a83232c8587c369e4d938.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Suncoast (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/265285.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/30dbed4f3422cb6c8a56bbb68476e2dc.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Cinco citas a ciegas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266284.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/c6bde67006371150326129ca2668ea68.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Apatrullando la Navidad (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266903.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/fdbf0372f9dd430ac9c4773660eb17e4.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Amor, acoso, asesinato (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266904.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/52e7fdf870ae2c9e16d616cf74f82756.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Polarizados (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266905.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b263db1517a9073c8267140857070c07.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) WWE Royal Rumble 2024 (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266906.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/dfef2507863c2063af27907f2edf19db.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Agencia Bien de amores (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/269788.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/09222f9a2c61404a8f9fdcac8805436b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Ceniza (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/269790.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/75ff9578c194e98827dd7cfae427f86d.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Los juegos del amor (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/269795.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/64c924e4878f9f7d19d2cdcc82d1aa02.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Madame Web (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/269796.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3c148666b362e68258037938ab421320.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Viviendo mi Pelicula (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/269801.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1e739df6eb49a3fd9a2c2a40293b3a1b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Luces fuera (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/270076.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/9c996045c3471678ec12030a83172df2.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/270079.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1e739df6eb49a3fd9a2c2a40293b3a1b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Combate clandestino (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/279549.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/76d37ea191f039320de7b720f70c5dfc.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Mea Culpa (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/279552.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/a3805e06738fe72909845e057e55bcb8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) The Walking Dead: The Return (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/279555.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/29b1abe4de7678f4bac71ee7c4b0d20e.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Código 8: Renegados (Parte II) (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283044.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/67d80661a15881ad44298d9689882460.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Jaque Mate (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283045.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6b309f95fd6cd4bf047ad3760ff15571.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Los desfiles (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283046.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b75c85b16f660a14387c345306e8cf9b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Me llamo Loh Ki-wan (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283047.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1e01d8fa3e703b8d43fc06fc789d0c59.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Megamente contra el sindicato de Doom (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283048.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/9b5c406d74bfefded850c4d35ef76ad7.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El astronauta (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/283052.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/49c2593e1b3e0e5e636a47da19dcaaac.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Duna: Parte dos (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/284593.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6ab24853b7b15b8cd5104f845cbc0ed0.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El retorno de Los Thundermans (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/284603.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1de610a8f8b8cbda0f2c6e95a8010490.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Damsel (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/284604.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/9b253228832bb82bb66943c6d811ca13.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) A Través de mi Ventana 3: A Través de tu Mirada (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/284766.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/05d35ada16a22a4525a0a9abc757d822.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Kung Fu Panda 4 (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285231.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5d0c959e9e1afe454418bfee877ae4cc.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Imaginario: juguete diabólico (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285583.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/87a9f6011ead75ba5aa63373d0db3943.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Chicas pesadas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/273344.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/505d3fed527c71798bdf81d8b940864a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Un deseo irlandés (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285800.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/0620edbdb60537038eeab0b59300b209.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Stopmotion (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285802.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d875cc8ef4e51ad2de6d8bc272a88d4f.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Un asesino sin duda (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285803.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/4bb15fbb1b9a93075fe290ac700c75fe.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Drive-Away Dolls (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285818.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/474aa2a7a1e424ecd213389c60c1d15a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Ricky Stanicky: El Impostor (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285830.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ba50f8105a231eb3a60eca90d65dc318.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) WWE Elimination Chamber 2024 (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/285834.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b831168fddd271c2d255c5a2c26220b2.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Atrapados En Lo Profundo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/286475.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/192cba533dc24411bf9cbf2d9ed3e7e2.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Bob Marley: La leyenda (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/286731.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/19a915de318ba857679844df29fb870a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El libro de Clarence (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/287382.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2c65437f43054c3597941ec48347e54a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Pathological (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/287385.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/578d930b0b06b82d5ec9d0476f21a658.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Stormy (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/287386.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/4ce8dc5ce884f499c60554c729748ab1.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Dragones del aire (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/290661.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/163f5496d03a09dd86456a7b4369b884.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Arca de Noé (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/290662.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/1f7939446c4fa09b6bdff709803d4fb1.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Ghostbusters: Apocalipsis fantasma (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/290663.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/c30df13e87545e5af5e560c27239bda8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Shirley (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/290666.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/8540449554438a51e7a578b9fb5c37ef.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Los Casagrande: La película (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/290667.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ac5ec066f6b04ab82a6a28ac89e2afaf.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El duro (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/291756.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b2e945ec1d11f9958115860d7d7bb323.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Beekeeper: Sentencia de muerte (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/293523.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b2e945ec1d11f9958115860d7d7bb323.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Beekeeper: Sentencia de muerte
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/293532.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5bc980203e5f0abece5e525469d46099.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Godzilla y Kong: El nuevo imperio (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/294178.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/006f57545e63bc6a1870056133d1eae9.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Noche de Bodas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/295933.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/dbc4f08f03e4e8336c7b46fc85b44483.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El juego bonito (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/296368.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/316c834a0c9afb9399e93378bf5e4c5e.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El salario del miedo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/296369.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/017907042e602aba95b4d59742effbd3.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Jade (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/296370.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/e9f2b87d1c89d1ff7eedfcd51ef8b074.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Lisa Frankenstein (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/296371.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/86aaec8ece0743a388a02e9f76e76835.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Snack Shack (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/296372.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ece5d541ae78e25b8bed670137f1a420.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Fabricante de lágrimas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/297103.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/72739d0dadf1a71a00a40f63b1abc479.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Música (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/297104.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/75be319afa3f1bb618e567849725c4ce.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La gran exclusiva (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/297105.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b54eb5a1e1ba2e853d93e80a841f2510.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El día que todo cambió (2024) (SUB)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/297486.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7cb6b122a57e865c217640ea36a0d6eb.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Sangre fría (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/300865.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2bcd923b2e46256146b18ccaed67aa51.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El roomie (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/301471.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/6a1517163408b5408cf523640f32d7aa.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La primera profecía (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/301472.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/30ec90264d7470142f96b87cc65ca08a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El Pájaro Loco se va de campamento (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/301473.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/053893182d694c64c245725bfd1cb155.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Rebel Moon - Parte Dos: La Guerrera que Deja Marcas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/305691.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/10c8e6653baad8a56dfe6f4a99b788a5.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Abigail (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307628.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/7e9080038050dea9eb58f6a29fadf4c9.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Arthur (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307788.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/42b96166b6a8dfb7fb1edfe438fedd9b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Asphalt City (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307789.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/38dc50638b93b3739b1b03d1704810eb.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Operación Esperanza: Los niños perdidos en el Amazonas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307790.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/8cdde0f8036ad4c7720af24932801c73.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) City Hunter (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307791.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/517d9a2339aad388f17ce92e367b13c4.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Sayen: La Cazadora (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307792.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/bc35f2ee9f9554ca05f3400e7618f041.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Antares de la Luz: La secta del fin del mundo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307793.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5cbbe4b7c72aff707601550f314913ba.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Popular Theory (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307794.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/31cf334ac3d9a7860f946372e37ce20c.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Problemista (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307795.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/bd3076b538c85396d994d2b93d4e2aca.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Robo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307796.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/db15edc73f77416c1b0abac5050e3738.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Gato Galáctico e o Feitiço do Tempo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/307797.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/430e39f6f14018bbd1381b49b6e34518.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Ordinary Angels (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/308066.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/114bb2fb16dc3027a17fa7cab03506fb.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Profesión peligro (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/308067.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5fe9de2bee5f6becac60750852803808.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Liga de la Justicia: Crisis en Tierras Infinitas - Parte 2 (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/308329.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/696a1e26d405fb3f6b7ab5dd4d201f2d.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Desafiantes (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310168.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/495a946a57619e82d4eeba6429de7aa3.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Cabrini (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310169.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/cf9d665d85979681b0a089812c4a3bf9.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) En Esa Dirección (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310171.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/43eae348723145b1812b52999b4904a8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Garfield: Fuera de Casa (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310352.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/539aec57f70a2a5cf95d839f95feee4b.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La Chica de Miller (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310353.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/acd565c51a46d3eb7568289da0ef0697.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Mil veces hasta siempre (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310531.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/46a1fb4d81f55c5c1b6510e4e7ae052d.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Hack Your Health: The Secrets of Your Gut (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313377.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2984e325ca93769f52af21b48c4c4cd8.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Somewhere Quiet (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313378.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/41fb90d1881f40576c980ca5e1f67270.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) The Long Game (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313379.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b6dbf8c6f48109f2fad1698a246a13bb.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Sin Glasear (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313380.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b2247c925445370ec41e1f31917474c7.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Tiempos Futuros (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313381.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/9d9742982efe197523d9c6a9e2ab2552.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La mesita del comedor (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313382.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/584cd97a80f9e322de656cb5f3712426.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Colateral (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313383.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5d7f13e2b30c5f01fbf5fa50ebb9422c.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El planeta de los simios: Nuevo reino (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/313384.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/285bdaeb3761ad2fc568158bc1ff884f.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Desaparecer Por Completo (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316622.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/12d0e5d9cb9c5b55cc06300df9af9784.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El Guardián de las Monarcas (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316623.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/40ece5f3e20b47aef10d1289c0583ec5.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Fiesta en la Madriguera (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316624.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/fbd004730b9e8443ff31b74cb28c0024.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) The Final: Attack on Wembley (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316626.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/66c2f4b1b2bc054333a154c2f1cb0d4a.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La Madre de la Novia (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316627.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/ba3e5eee11f901d6ecc1f68f2bcc4589.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La vida entre leopardos (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316628.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/091d677f0c33c669214813e1ed83e813.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Ángeles inesperados (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316630.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/e648a08a346789f13f492cc522188526.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Secretos de los neandertales (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316631.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/3a0e8cf9e9e0f8bf8bfd8cafcb1e7507.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Te llevo en el alma (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316632.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/5a82278056640193572367f7431156e7.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) The dry 2: La fuerza de la naturaleza (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316633.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/a34986917973de8fff021f7cc4aa6943.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Wanted Man: Se Busca (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316635.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/2450e0e2f3691c722fa04a8347219893.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) El poder policial en EE. UU. (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316687.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/0dde06ff34ffd39bbe3002206af0d3b3.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Telma: La Unicornio (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316688.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/f4036f6b5711be9f5bfe0cd54a7f0939.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Baby Shark, La Gran Película (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316874.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/68c817c6a34758caebd37e69cdb8e5d4.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Shaitaan (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/316875.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/e7e46ff41e1b7862df3cf9bac57682f9.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Golden Kamuy (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/317157.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/b324d87a69e12dadccd4189afeba2462.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Amigos imaginarios (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/317158.mkv
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/15f36a947447fbd6405c7576cea222d0.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) Mátame si te atreves, cariño (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/266285.mp4
+
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/d16973e323c263807dc3097e3bd0ad23.jpg" group-title="VOD || ESTRENOS 2024", (ONLINE) La Idea de Ti (2024)
+http://alfatv.lat:2082/movie/RoGelioLp/fdvyEfFxcspK/310532.mkv
 
 
 
