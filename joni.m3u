@@ -94,6 +94,9 @@ http://tv.nousiptv.com:8080/live/943333/fatimar/1155911.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn
 https://maiolve.club/Sistema1083/NuFAdMD9qs4G/181047.m3u8
 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn opc1
+http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/43844
+
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn arg
 http://zeuspro.xyz:8080/live/olgagrajales/V6U2GwtmSs/69718.m3u8
 
@@ -103,7 +106,7 @@ http://23.152.40.82/auth/IUFq1PW9kF9igPAESgKUXaxgfNoM0pQ2QM4z30QN9oAjedpYEii3cbi
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 3
 http://elperrotv.online:80/Willie/12345/1070143.m3u8
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 4
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 4
 http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/976
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina⚽️",  espn 5 
